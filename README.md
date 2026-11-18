@@ -50,6 +50,7 @@ niveau1-serie-tiktok/
 │       ├── 3_montage_partie1.md      ← quel clip pour quel plan
 │       ├── A_GENERER_kling/          ← 🎬 LES SCÈNES À FAIRE (1 fichier = 1 scène)
 │       └── archive_v1/               ← ancien script et anciens prompts (tes clips déjà générés)
+│   └── ep02_neon_marais/             ← épisode spatial : bible, script partie 1, pistes partie 2
 └── montage/
     ├── interface_ui.md
     └── checklist.md
@@ -59,6 +60,7 @@ niveau1-serie-tiktok/
 | # | Titre | Lieu / époque | Boss | Leçon |
 |---|---|---|---|---|
 | 01 | La Danse Maudite | Strasbourg, 1518 | Le Ménestrel Maudit | Parfois, au lieu de lutter contre le courant… danse avec. |
+| 02 | La Cartouche Mère *(hors-série spatial, fiction totale)* | Le Néon-Marais, astéroïde-casino | Gloubak, baron crapaud-pieuvre | La gentillesse est le seul investissement qui rapporte toujours. |
 
 ## Ajouter un épisode
 1. Crée `episodes/epXX_ville_annee/` sur le modèle de `ep01` : `1_partie1_script.md`, `2_partie2…`, `3_montage_partie1.md` et un dossier `A_GENERER_kling/` (1 fichier = 1 scène, prompts complets).

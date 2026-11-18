@@ -28,3 +28,4 @@ Close-up head portrait of Bernard, a middle-aged man with an oversized round hea
 | Épisode | Costume |
 |---|---|
 | 01 – Strasbourg 1518 | simple brown medieval monk robe with a rope belt and sandals |
+| 02 – Néon-Marais (espace) | même robe de moine que l'épisode 01 (enlevé en pleine nuit) |
