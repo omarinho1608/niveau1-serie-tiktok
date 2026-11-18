@@ -6,12 +6,12 @@
 
 ## 📺 LES ÉPISODES : clique sur celui que tu veux
 
-| # | Épisode | Thème | Où on en est | Ouvrir |
-|---|---|---|---|---|
-| 01 | **La Danse Maudite** | 🏰 Strasbourg, 1518 | ✅ Partie 1 terminée · ⏳ Partie 2 après le vote | 👉 [**LISEZ-MOI Strasbourg**](episodes/ep01_strasbourg_1518/README.md) |
-| 02 | **La Cartouche Mère** | 🚀 Espace (hors-série) | ✍️ Script partie 1 écrit · ⬜ prompts Kling à faire | 👉 [**LISEZ-MOI Espace**](episodes/ep02_neon_marais/README.md) |
+| # | Épisode | Thème | Où on en est | Ouvrir | Prompts |
+|---|---|---|---|---|---|
+| 01 | **La Danse Maudite** | 🏰 Strasbourg, 1518 | ✅ Partie 1 terminée · ⏳ Partie 2 après le vote | 👉 [**LISEZ-MOI Strasbourg**](episodes/ep01_strasbourg_1518/README.md) | [▶️ scènes](episodes/ep01_strasbourg_1518/A_GENERER_kling/README.md) |
+| 02 | **La Cartouche Mère** | 🚀 Espace (hors-série) | ✍️ Script partie 1 écrit · ✅ prompts prêts | 👉 [**LISEZ-MOI Espace**](episodes/ep02_neon_marais/README.md) | [▶️ **PROMPTS À COLLER**](episodes/ep02_neon_marais/PROMPTS_A_COLLER.md) |
 
-> Chaque épisode a **son propre LISEZ-MOI** avec tout ce qu'il te faut, dans l'ordre. Ce tableau est mis à jour à chaque nouvel épisode.
+> Chaque épisode a **son propre LISEZ-MOI**, et un fichier **▶️ PROMPTS À COLLER** qui contient tous les prompts dans l'ordre de génération. Ce tableau est mis à jour à chaque nouvel épisode.
 
 ---
 
