@@ -15,6 +15,7 @@ Série TikTok d'action absurde en **pixel art 16-bit rétro**. Un héros de nive
 ## Comment utiliser ce dépôt (dans l'ordre)
 1. `00_methode_kling.md` : la méthode de production sur Kling AI (résumé).
    👉 **`02_guide_kling_pas_a_pas.md` : le guide détaillé, des images à la vidéo finale.**
+   🆕 **`03_format_pov_interactif.md` : le nouveau format POV interactif en 2 parties + épisode 1 réécrit.**
 2. `01_style_global.md` : le bloc **STYLE** et le **prompt négatif**, à coller partout.
 3. `personnages/` : génère les fiches des personnages et garde les meilleures comme références.
 4. `decors/` : génère les décors de l'épisode.
@@ -27,6 +28,7 @@ Série TikTok d'action absurde en **pixel art 16-bit rétro**. Un héros de nive
 ├── 00_methode_kling.md
 ├── 01_style_global.md
 ├── 02_guide_kling_pas_a_pas.md
+├── 03_format_pov_interactif.md
 ├── personnages/            gaston.md, bernard.md, figurants par épisode
 ├── decors/                 décors par épisode + écrans récurrents
 ├── episodes/
