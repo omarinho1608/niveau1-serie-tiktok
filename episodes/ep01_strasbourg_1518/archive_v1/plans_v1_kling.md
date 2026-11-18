@@ -1,6 +1,6 @@
 # Épisode 01 – Découpage des 25 plans pour Kling
 
-> Remplace `[ADN …]` par la fiche ADN du personnage (dossier `personnages/`) et `[STYLE]` par le bloc de `01_style_global.md`. Colle le prompt négatif partout.
+> Remplace `[ADN …]` par la fiche ADN du personnage (dossier `personnages/`) et `[STYLE]` par le bloc de `docs/2_style_global.md`. Colle le prompt négatif partout.
 
 > Pour chaque plan : **KEYFRAME** = image de départ (avec référence perso) → **MOTION** = prompt Image-to-Video.
 > 🎞️ = ce que tu ajoutes au montage.

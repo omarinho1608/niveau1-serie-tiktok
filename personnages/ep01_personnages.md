@@ -1,6 +1,6 @@
 # Personnages de l'épisode 01 (Maire, Ménestrel, figurants)
 
-> Copie **mot pour mot** la fiche ADN dans chaque prompt où le personnage apparaît. Termine chaque prompt par le bloc STYLE de `01_style_global.md`.
+> Copie **mot pour mot** la fiche ADN dans chaque prompt où le personnage apparaît. Termine chaque prompt par le bloc STYLE de `docs/2_style_global.md`.
 
 ### 🎩 LE MAIRE DE STRASBOURG (Épisode 1)
 **Rôle :** autorité très sérieuse qui a toujours la pire idée possible.
@@ -55,3 +55,25 @@ a band of Renaissance town musicians with oversized round heads, striped red and
 ```
 Sprite sheet of a band of Renaissance town musicians with oversized round heads, striped red and yellow outfits, playing drums, bagpipes, trumpets and flutes with puffed cheeks and overly enthusiastic faces, full body, plain light grey background. 16-bit retro pixel art, crisp clean pixels, thick dark outlines, flat vibrant colors, satirical cartoon comedy vibe, high quality sprite art
 ```
+
+---
+
+### 👩‍🍳 GRETA – l'aubergiste (Épisode 1, version POV)
+**Rôle :** victime de la danse, porte le moment sincère de l'épisode.
+
+**Fiche ADN :**
+```
+Greta, a sturdy medieval innkeeper with an oversized round head, blonde braids, rosy cheeks, a white apron over a green dress
+```
+👉 Prompt de fiche personnage : `episodes/ep01_strasbourg_1518/A_GENERER_kling/00_ELEMENTS_A_CREER.md`
+
+---
+
+### 💃 FRAU TROFFEA – la première danseuse (Épisode 1, version POV)
+**Rôle :** l'accroche de l'épisode, inquiétante.
+
+**Fiche ADN :**
+```
+Frau Troffea, a thin medieval woman with an oversized round head, a white linen bonnet, a simple grey dress
+```
+👉 Prompt de fiche personnage : `episodes/ep01_strasbourg_1518/A_GENERER_kling/00_ELEMENTS_A_CREER.md`

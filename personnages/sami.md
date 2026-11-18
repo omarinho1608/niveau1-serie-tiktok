@@ -1,8 +1,8 @@
 # Sami – le héros niveau 1 (récurrent)
 
-> Copie **mot pour mot** la fiche ADN dans chaque prompt où le personnage apparaît. Termine chaque prompt par le bloc STYLE de `01_style_global.md`.
+> Copie **mot pour mot** la fiche ADN dans chaque prompt où le personnage apparaît. Termine chaque prompt par le bloc STYLE de `docs/2_style_global.md`.
 
-**Rôle :** le héros niveau 1. Gentil, anxieux, naïf, il panique tout le temps mais a un vrai cœur : c'est lui qui a les moments d'émotion et qui trouve la leçon à la fin. Il se fait embarquer de force dans les quêtes par Bernard. (Voir `04_ton_et_humour.md`.)
+**Rôle :** le héros niveau 1. Gentil, anxieux, naïf, il panique tout le temps mais a un vrai cœur : c'est lui qui a les moments d'émotion et qui trouve la leçon à la fin. Il se fait embarquer de force dans les quêtes par Bernard. (Voir `docs/3_ton_et_humour.md`.)
 
 **Fiche ADN (à copier partout) :**
 ```

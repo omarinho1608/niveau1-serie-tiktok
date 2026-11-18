@@ -149,9 +149,9 @@ Pour **chaque plan**, dans l'ordre :
 1. Va dans **Vidéo → Image-to-Video**.
 2. **Image de départ** (*start frame*) : charge `3_images_cles/planXX.png`.
 3. **Lier les personnages** : active l'option de liaison des sujets (*Bind Subject / Enhance Consistency*) et sélectionne les Elements présents **dans l'image** (3 maximum). Ça empêche le visage et le costume de se déformer pendant le mouvement.
-4. **Prompt** : colle le prompt **MOTION** du plan (fichier `plans_kling.md`) et ajoute à la fin :
+4. **Prompt** : colle le prompt **MOTION** du plan (fichier de la scène) et ajoute à la fin :
    `pixel art style preserved, characters keep their exact design`
-5. **Prompt négatif** : colle celui de `01_style_global.md`.
+5. **Prompt négatif** : colle celui de `docs/2_style_global.md`.
 6. **Réglages** :
    - format **9:16** ;
    - durée **5 s** (10 s seulement pour le plan 20) ;

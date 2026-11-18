@@ -10,36 +10,49 @@ Série TikTok d'aventure absurde en **pixel art 16-bit rétro**, en vue POV et e
 - **Durée :** 60 à 90 s, au format 9:16 (au moins 1 min pour être éligible au Creator Rewards Program).
 - **Rythme :** une coupe ou un mouvement toutes les 2 à 3 s, trois escalades, un boss, une fausse victoire, une chute.
 - **Le duo :** Bernard (cynique, génial, « Spoiler : ça va mal finir ») et Sami (anxieux, sincère, « On va mourir. On va vraiment mourir. »). Bernard a le même visage à chaque époque, seul son costume change.
-- **Ton :** humour accessible à tous + 1 moment sincère par épisode. Voir `04_ton_et_humour.md`.
+- **Ton :** humour accessible à tous + 1 moment sincère par épisode. Voir `docs/3_ton_et_humour.md`.
 - **Format :** partie 1 = cliffhanger + vote A/B en commentaire ; partie 2 = suite selon le vote + leçon + carte « 📜 FAIT RÉEL ».
 - **Originalité :** aucun personnage, logo ou musique d'une œuvre existante. Label « contenu IA » activé sur TikTok.
 
-## Comment utiliser ce dépôt (dans l'ordre)
-1. `00_methode_kling.md` : la méthode de production sur Kling AI (résumé).
-   👉 **`02_guide_kling_pas_a_pas.md` : le guide détaillé, des images à la vidéo finale.**
-   🆕 **`03_format_pov_interactif.md` : le nouveau format POV interactif en 2 parties + épisode 1 réécrit.**
-   🎭 **`04_ton_et_humour.md` : le duo Bernard / Sami, les types d'humour, le dosage drame/humour, les voix.**
-2. `01_style_global.md` : le bloc **STYLE** et le **prompt négatif**, à coller partout.
-3. `personnages/` : génère les fiches des personnages et garde les meilleures comme références.
-4. `decors/` : génère les décors de l'épisode.
-5. `episodes/<épisode>/script.md` : lis le script.
-6. `episodes/<épisode>/plans_kling.md` : génère les plans un par un (image de départ, puis animation).
-7. `montage/` : ajoute l'interface, les textes et les sons, puis vérifie la checklist avant de publier.
+## 👉 Tu cherches quoi ?
+| Je veux… | Va dans |
+|---|---|
+| **Générer les nouvelles scènes de l'épisode 1** | 📁 [`episodes/ep01_strasbourg_1518/A_GENERER_kling/`](episodes/ep01_strasbourg_1518/A_GENERER_kling/) |
+| Lire le script de la partie 1 | [`episodes/ep01_strasbourg_1518/1_partie1_script.md`](episodes/ep01_strasbourg_1518/1_partie1_script.md) |
+| Savoir quel clip va où au montage | [`episodes/ep01_strasbourg_1518/3_montage_partie1.md`](episodes/ep01_strasbourg_1518/3_montage_partie1.md) |
+| Comprendre comment utiliser Kling | [`docs/1_guide_kling_pas_a_pas.md`](docs/1_guide_kling_pas_a_pas.md) |
+| Le bloc de style et le prompt négatif | [`docs/2_style_global.md`](docs/2_style_global.md) |
+| Le ton, l'humour, le duo Bernard / Sami | [`docs/3_ton_et_humour.md`](docs/3_ton_et_humour.md) |
+| Le format POV interactif en 2 parties | [`docs/4_format_pov_interactif.md`](docs/4_format_pov_interactif.md) |
+| Les fiches des personnages | [`personnages/`](personnages/) |
+| Les décors | [`decors/`](decors/) |
+| L'interface de montage et la checklist | [`montage/`](montage/) |
 
 ## Structure
 ```
-├── 00_methode_kling.md
-├── 01_style_global.md
-├── 02_guide_kling_pas_a_pas.md
-├── 03_format_pov_interactif.md
-├── 04_ton_et_humour.md
-├── personnages/            sami.md, bernard.md, figurants par épisode
-├── decors/                 décors par épisode + écrans récurrents
+niveau1-serie-tiktok/
+├── README.md                         ← tu es ici
+├── docs/                             ← les règles de la série (communes à tous les épisodes)
+│   ├── 1_guide_kling_pas_a_pas.md
+│   ├── 2_style_global.md
+│   ├── 3_ton_et_humour.md
+│   └── 4_format_pov_interactif.md
+├── personnages/
+│   ├── sami.md
+│   ├── bernard.md
+│   └── ep01_personnages.md           ← Maire, Ménestrel, Greta, Frau Troffea, figurants
+├── decors/
+│   └── ep01_decors.md
 ├── episodes/
-│   └── episode01_strasbourg_1518/
-│       ├── script.md
-│       └── plans_kling.md
-└── montage/                interface_ui.md, checklist.md
+│   └── ep01_strasbourg_1518/
+│       ├── 1_partie1_script.md
+│       ├── 2_partie2_a_ecrire.md
+│       ├── 3_montage_partie1.md      ← quel clip pour quel plan
+│       ├── A_GENERER_kling/          ← 🎬 LES SCÈNES À FAIRE (1 fichier = 1 scène)
+│       └── archive_v1/               ← ancien script et anciens prompts (tes clips déjà générés)
+└── montage/
+    ├── interface_ui.md
+    └── checklist.md
 ```
 
 ## Épisodes
@@ -48,7 +61,7 @@ Série TikTok d'aventure absurde en **pixel art 16-bit rétro**, en vue POV et e
 | 01 | La Danse Maudite | Strasbourg, 1518 | Le Ménestrel Maudit | Parfois, au lieu de lutter contre le courant… danse avec. |
 
 ## Ajouter un épisode
-1. Crée `episodes/episodeXX_ville_annee/` avec `script.md` et `plans_kling.md`.
+1. Crée `episodes/epXX_ville_annee/` sur le modèle de `ep01` : `1_partie1_script.md`, `2_partie2…`, `3_montage_partie1.md` et un dossier `A_GENERER_kling/` (1 fichier = 1 scène, prompts complets).
 2. Ajoute le nouveau costume de Bernard dans `personnages/bernard.md`.
-3. Ajoute les nouveaux personnages dans `personnages/episodeXX_figurants.md` et les décors dans `decors/episodeXX_decors.md`.
+3. Ajoute les nouveaux personnages dans `personnages/epXX_personnages.md` et les décors dans `decors/epXX_decors.md`.
 4. Réutilise les écrans D4 (chargement) et D5 (fin) sans les modifier.
