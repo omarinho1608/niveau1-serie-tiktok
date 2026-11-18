@@ -29,11 +29,11 @@ Images des persos + images des décors
 Crée ces dossiers sur ton ordinateur :
 ```
 Niveau1_Ep01/
-├── 1_refs_persos/     gaston_face.png, gaston_profil.png, bernard_face.png…
+├── 1_refs_persos/     sami_face.png, sami_profil.png, bernard_face.png…
 ├── 2_refs_decors/     D1_place.png, D2_balcon.png, D3_parvis.png, D4.png, D5.png
 ├── 3_images_cles/     plan01.png, plan02.png … plan25.png
 ├── 4_clips/           plan01.mp4, plan02.mp4 …
-├── 5_voix/            gaston_01.mp3, bernard_01.mp3 …
+├── 5_voix/            sami_01.mp3, bernard_01.mp3 …
 └── 6_sons_musique/
 ```
 Nomme toujours les fichiers par numéro de plan. Au montage, c'est ce qui te fera gagner le plus de temps.
@@ -48,12 +48,12 @@ Un **Element**, c'est une « carte d'identité » du personnage que Kling garde 
 2. Crée un nouvel Element de type **personnage**.
 3. Choisis l'**image principale** : le personnage **de face**, en entier, sur fond uni. C'est la plus importante.
 4. Ajoute **1 à 3 images supplémentaires** : profil, dos, une expression. Kling accepte 2 à 4 images en tout.
-5. Donne-lui un nom simple : `Gaston`, `Bernard`, `Maire`, `Menestrel`.
+5. Donne-lui un nom simple : `Sami`, `Bernard`, `Maire`, `Menestrel`.
 
 À créer :
 | Element | Image principale | Images supplémentaires |
 |---|---|---|
-| Gaston | face | profil, dos, visage « choqué » |
+| Sami | face | profil, dos, visage « choqué » |
 | Bernard (moine) | face | profil, portrait visage |
 | Maire | face | profil |
 | Menestrel | face | profil |
@@ -78,7 +78,7 @@ C'est l'étape qui te bloquait. Il y a deux méthodes. Commence par la A, et pas
 
 ```
 Use the background image as the exact scene and keep its style and composition.
-Place [Gaston] in this scene: [action / pose / expression du plan, reprise du prompt KEYFRAME].
+Place [Sami] in this scene: [action / pose / expression du plan, reprise du prompt KEYFRAME].
 Characters must keep exactly their reference design, proportions and colors.
 Same 16-bit retro pixel art style as the background, crisp clean pixels, thick dark outlines, flat vibrant colors, vertical 9:16.
 ```
@@ -102,33 +102,33 @@ Same 16-bit retro pixel art style as the background, crisp clean pixels, thick d
 - **Plans 01, 14, 25 :** le décor (D4, D3, D5) sert directement d'image clé.
 - **Plan 04 :** réutilise l'image clé du plan 03.
 - **Plan 18 :** réutilise l'image clé du plan 17.
-- **Plan 19 :** gros plan du visage de Gaston sur fond violet. Pas besoin de décor : génère-le avec l'Element Gaston seul.
+- **Plan 19 :** gros plan du visage de Sami sur fond violet. Pas besoin de décor : génère-le avec l'Element Sami seul.
 
 ### Tableau : quel décor et quels persos pour chaque plan
 
 | Plan | Décor | Elements à lier | Foule à décrire dans le prompt |
 |---|---|---|---|
 | 01 | D4 | — | — |
-| 02 | D1 (vue du ciel) | Gaston | — |
-| 03 | D1 | Gaston | danseurs |
-| 04 | = image du plan 03 | Gaston | danseurs |
+| 02 | D1 (vue du ciel) | Sami | — |
+| 03 | D1 | Sami | danseurs |
+| 04 | = image du plan 03 | Sami | danseurs |
 | 05 | D1 (flou en fond) | Bernard | danseurs |
-| 06 | D1 | Gaston + Bernard | — |
-| 07 | **Rue** (décor à créer, voir plus bas) | Gaston | danseurs |
-| 08 | **Rue** (vue de côté) | Gaston | 1 danseur + charrette |
-| 09 | D1 | Gaston | 1 danseur |
-| 10 | D1 | Gaston | danseurs |
+| 06 | D1 | Sami + Bernard | — |
+| 07 | **Rue** (décor à créer, voir plus bas) | Sami | danseurs |
+| 08 | **Rue** (vue de côté) | Sami | 1 danseur + charrette |
+| 09 | D1 | Sami | 1 danseur |
+| 10 | D1 | Sami | danseurs |
 | 11 | D2 | Maire | — |
 | 12 | D1 | — | musiciens + danseurs |
 | 13 | D1 | — | danseurs + musiciens |
 | 14 | D3 | — | — |
-| 15 | D3 | Menestrel + Gaston | — |
-| 16 | D3 | Menestrel + Gaston | — |
-| 17 | D3 | Gaston + Menestrel | — |
-| 18 | = image du plan 17 | Gaston + Menestrel | — |
-| 19 | fond violet uni | Gaston | — |
-| 20 | D3 | Gaston + Menestrel | — |
-| 21 | D3 | Gaston + Menestrel | — |
+| 15 | D3 | Menestrel + Sami | — |
+| 16 | D3 | Menestrel + Sami | — |
+| 17 | D3 | Sami + Menestrel | — |
+| 18 | = image du plan 17 | Sami + Menestrel | — |
+| 19 | fond violet uni | Sami | — |
+| 20 | D3 | Sami + Menestrel | — |
+| 21 | D3 | Sami + Menestrel | — |
 | 22 | D1 | — | danseurs + musiciens au sol |
 | 23 | D1 (sol pavé, vue du dessus) | Bernard | — |
 | 24 | D2 | Maire | — |
@@ -161,8 +161,8 @@ Pour **chaque plan**, dans l'ordre :
 
 ### Quand utiliser l'image de FIN (*end frame*)
 Ajoute une image de fin quand le plan doit **finir précisément** d'une certaine manière :
-- **Plan 04** : début = plan 03, fin = Gaston aplati au sol.
-- **Plan 21** : début = Gaston attrape le câble, fin = câble arraché, plus de lueur violette.
+- **Plan 04** : début = plan 03, fin = Sami aplati au sol.
+- **Plan 21** : début = Sami attrape le câble, fin = câble arraché, plus de lueur violette.
 - **Plan 22** : début = tout le monde debout figé, fin = tout le monde au sol.
 
 Pour créer l'image de fin, refais l'Étape 2 avec la pose finale.
@@ -173,7 +173,7 @@ Pour créer l'image de fin, refais l'Étape 2 avec la pose finale.
 | Le pixel art devient lisse ou « 3D » | Pousse le curseur vers Relevance, ajoute `no smoothing, no 3D` au négatif, demande moins de mouvement |
 | Le perso change de visage | Vérifie que l'Element est bien lié, raccourcis l'action, et décris une seule action par plan |
 | Trop de choses bougent | Ajoute `static background` dans le prompt |
-| L'action ne se passe pas | Simplifie le prompt : sujet + verbe + direction (« Gaston jumps to the right ») |
+| L'action ne se passe pas | Simplifie le prompt : sujet + verbe + direction (« Sami jumps to the right ») |
 | La caméra fait n'importe quoi | Précise `static camera` ou un seul mouvement (`slow push-in`) |
 | Le plan est trop chaotique (foules) | Accepte-le : 1 à 2 s de chaos suffisent, tu couperas au montage |
 
@@ -185,11 +185,11 @@ Pour créer l'image de fin, refais l'Étape 2 avec la pose finale.
 
 **Option 1 (recommandée) : ElevenLabs ou équivalent**
 1. Choisis **une voix fixe par personnage** et note son nom :
-   - Gaston : jeune, énergique, sûr de lui ;
+   - Sami : jeune, énergique, sûr de lui ;
    - Bernard : grave, lent, monotone, fatigué ;
    - le Maire : pompeux, théâtral ;
    - le Ménestrel : grave, inquiétant, qui traîne sur les mots.
-2. Génère chaque réplique séparément : `bernard_01.mp3`, `gaston_02.mp3`…
+2. Génère chaque réplique séparément : `bernard_01.mp3`, `sami_02.mp3`…
 3. Place-les au montage sur le bon plan.
 
 **Option 2 : la voix dans Kling** (si ta version le permet)
@@ -225,7 +225,7 @@ Kling 3.0 Omni permet d'associer une voix à un Element personnage. C'est pratiq
 - [ ] Vérifie la checklist de `montage/checklist.md`.
 - [ ] Active le label **« Contenu généré par IA »** sur TikTok.
 - [ ] Description courte avec 3 à 5 hashtags (#histoire #pixelart #humour #strasbourg #niveau1).
-- [ ] Choisis une **couverture** : la meilleure image du boss ou de Gaston qui tombe.
+- [ ] Choisis une **couverture** : la meilleure image du boss ou de Sami qui tombe.
 
 ---
 

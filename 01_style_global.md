@@ -11,7 +11,7 @@ realistic, photorealistic, 3D render, smooth gradients, blurry, soft focus, pain
 ```
 
 **Palette de la série (pour rester propre et reconnaissable) :**
-- Gaston : bleu roi + rouge vif + argent
+- Sami : bleu roi + rouge vif + argent
 - Bernard : brun / gris terne (il est blasé, même ses couleurs le sont)
 - Méchants / boss : violet + magenta lumineux
 - Époque 1518 : pierres ocre, toits rouges, ciel bleu clair

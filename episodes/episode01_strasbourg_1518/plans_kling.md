@@ -16,33 +16,33 @@ The glowing retro cartridge slides quickly into the slot, a bright flash of whit
 ```
 - 🎞️ Bruit de cartouche + jingle 8-bit. Texte : **« 💾 Chargement de la sauvegarde… Année 1518. Lieu : Strasbourg. »** + petit texte : *« Inspiré de faits réels. Enfin… à peu près. »*
 
-### PLAN 02 — Gaston tombe du ciel (2–4 s)
+### PLAN 02 — Sami tombe du ciel (2–4 s)
 - **KEYFRAME :**
 ```
-[ADN Gaston] falling from the sky head first above the medieval Strasbourg cathedral square in 1518, arms flailing, scarf flying, panicked face, half-timbered houses below, high angle view. [STYLE]
+[ADN Sami] falling from the sky head first above the medieval Strasbourg cathedral square in 1518, arms flailing, scarf flying, panicked face, half-timbered houses below, high angle view. [STYLE]
 ```
 - **MOTION :**
 ```
-Gaston falls very fast straight down and crashes face first into the cobblestones, dust cloud explodes on impact, camera shakes, fast comedic motion
+Sami falls very fast straight down and crashes face first into the cobblestones, dust cloud explodes on impact, camera shakes, fast comedic motion
 ```
 - 🎞️ Sifflement de chute + gros « BOUM ». Effet écran fissuré (overlay CapCut).
 
 ### PLAN 03 — Il se relève, la foule danse derrière (4–7 s)
 - **KEYFRAME :**
 ```
-[ADN Gaston] standing up proudly in the foreground with dust on his helmet, confident grin, behind him the whole medieval Strasbourg cathedral square is filled with [ADN danseurs], gothic cathedral in the background, three-quarter top-down view. [STYLE]
+[ADN Sami] standing up proudly in the foreground with dust on his helmet, confident grin, behind him the whole medieval Strasbourg cathedral square is filled with [ADN danseurs], gothic cathedral in the background, three-quarter top-down view. [STYLE]
 ```
 - **MOTION :**
 ```
-Gaston dusts himself off and puts his fists on his hips confidently, behind him dozens of peasants dance frantically in chaotic loops, slow push-in camera toward Gaston
+Sami dusts himself off and puts his fists on his hips confidently, behind him dozens of peasants dance frantically in chaotic loops, slow push-in camera toward Sami
 ```
-- 🎞️ GASTON : « Ok. Un village. Des PNJ. Facile. »
+- 🎞️ SAMI : « Ok. Un village. Des PNJ. Facile. »
 
 ### PLAN 04 — Écrasé par un danseur (7–9 s)
 - **KEYFRAME :** même cadre que plan 03.
 - **MOTION :**
 ```
-A wildly dancing peasant moonwalks backwards fast across the frame and runs straight over Gaston, flattening him on the ground, comedic impact, camera shakes briefly
+A wildly dancing peasant moonwalks backwards fast across the frame and runs straight over Sami, flattening him on the ground, comedic impact, camera shakes briefly
 ```
 - 🎞️ Bruit « SPLATCH » cartoon.
 
@@ -60,55 +60,55 @@ Bernard keeps dancing energetically with his body while his face stays perfectly
 ### PLAN 06 — « Qui a fait ça ?! » / Bernard montre la cathédrale (12–14 s)
 - **KEYFRAME :**
 ```
-[ADN Gaston] on the left grabbing [ADN Bernard], [costume Ep1], by the robe, Bernard spinning in place and pointing toward the gothic cathedral in the background, Strasbourg square. [STYLE]
+[ADN Sami] on the left grabbing [ADN Bernard], [costume Ep1], by the robe, Bernard spinning in place and pointing toward the gothic cathedral in the background, Strasbourg square. [STYLE]
 ```
 - **MOTION :**
 ```
-Gaston shakes Bernard by the robe, Bernard spins around once while dancing and points at the cathedral, quick whip pan toward the cathedral spire
+Sami shakes Bernard by the robe, Bernard spins around once while dancing and points at the cathedral, quick whip pan toward the cathedral spire
 ```
-- 🎞️ GASTON : « Qui a fait ça ?! » — BERNARD : « Le Ménestrel. »
+- 🎞️ SAMI : « Qui a fait ça ?! » — BERNARD : « Le Ménestrel. »
 
 ### PLAN 07 — La horde de danseurs (14–18 s)
 - **KEYFRAME :**
 ```
-[ADN Gaston] running toward the camera in a narrow medieval Strasbourg street with half-timbered houses, a huge horde of [ADN danseurs] chasing behind him like a wave, low angle front view. [STYLE]
+[ADN Sami] running toward the camera in a narrow medieval Strasbourg street with half-timbered houses, a huge horde of [ADN danseurs] chasing behind him like a wave, low angle front view. [STYLE]
 ```
 - **MOTION :**
 ```
-Gaston sprints toward the camera with a panicked face while the horde of dancing peasants surges behind him, camera tracking backwards fast, dynamic action
+Sami sprints toward the camera with a panicked face while the horde of dancing peasants surges behind him, camera tracking backwards fast, dynamic action
 ```
 - 🎞️ Musique d'action chiptune rapide démarre ici.
 
 ### PLAN 08 — Esquives (18–22 s)
 - **KEYFRAME :**
 ```
-[ADN Gaston] in mid-air jumping over a dancing peasant in a medieval Strasbourg street, a wooden hay cart ahead of him, side view like a retro platform game. [STYLE]
+[ADN Sami] in mid-air jumping over a dancing peasant in a medieval Strasbourg street, a wooden hay cart ahead of him, side view like a retro platform game. [STYLE]
 ```
 - **MOTION :**
 ```
-Gaston jumps over a dancer, lands, then slides under the wooden hay cart and pops up on the other side, fast side-scrolling camera following him, energetic action
+Sami jumps over a dancer, lands, then slides under the wooden hay cart and pops up on the other side, fast side-scrolling camera following him, energetic action
 ```
 - 🎞️ Texte pop : **« +10 XP : Esquive de paysan »** + son de pièce.
 
 ### PLAN 09 — Il touche un danseur… et danse (22–26 s)
 - **KEYFRAME :**
 ```
-[ADN Gaston] accidentally touching the shoulder of a dancing peasant, a magenta pixel spark between them, shocked face, Strasbourg square. [STYLE]
+[ADN Sami] accidentally touching the shoulder of a dancing peasant, a magenta pixel spark between them, shocked face, Strasbourg square. [STYLE]
 ```
 - **MOTION :**
 ```
-A magenta spark flashes, Gaston's legs suddenly start dancing uncontrollably while his upper body tries to resist, horrified face, quick zoom in on his legs
+A magenta spark flashes, Sami's legs suddenly start dancing uncontrollably while his upper body tries to resist, horrified face, quick zoom in on his legs
 ```
-- 🎞️ GASTON : « Non non non NON— » + texte **« ⚠️ Statut : MALÉDICTION DU DÉHANCHÉ »** (violet, clignotant).
+- 🎞️ SAMI : « Non non non NON— » + texte **« ⚠️ Statut : MALÉDICTION DU DÉHANCHÉ »** (violet, clignotant).
 
-### PLAN 10 — Gaston continue en dansant (26–30 s)
+### PLAN 10 — Sami continue en dansant (26–30 s)
 - **KEYFRAME :**
 ```
-[ADN Gaston] dancing forcibly while trying to walk toward the cathedral with a frustrated face, wooden sword raised, dancers around him, three-quarter top-down view of Strasbourg square. [STYLE]
+[ADN Sami] dancing forcibly while trying to walk toward the cathedral with a frustrated face, wooden sword raised, dancers around him, three-quarter top-down view of Strasbourg square. [STYLE]
 ```
 - **MOTION :**
 ```
-Gaston moves forward in a ridiculous zigzag dance, spinning and stepping sideways, bumping into dancers, camera follows him
+Sami moves forward in a ridiculous zigzag dance, spinning and stepping sideways, bumping into dancers, camera follows him
 ```
 
 ### PLAN 11 — Le Maire au balcon (30–33 s)
@@ -154,7 +154,7 @@ The giant gothic wooden doors of the cathedral burst open with an explosion of m
 ### PLAN 15 — Entrée du boss (43–48 s)
 - **KEYFRAME :**
 ```
-[ADN Ménestrel] standing in the open doors of the gothic cathedral, towering and menacing, magenta glow behind him, smoke around his feet, low angle view making him look gigantic, [ADN Gaston] tiny in the foreground seen from behind. [STYLE]
+[ADN Ménestrel] standing in the open doors of the gothic cathedral, towering and menacing, magenta glow behind him, smoke around his feet, low angle view making him look gigantic, [ADN Sami] tiny in the foreground seen from behind. [STYLE]
 ```
 - **MOTION :**
 ```
@@ -165,62 +165,62 @@ The Cursed Minstrel slowly lifts his head, his eyes ignite with magenta light, h
 ### PLAN 16 — Riff d'attaque (48–52 s)
 - **KEYFRAME :**
 ```
-Side view retro boss fight in front of the Strasbourg cathedral, [ADN Ménestrel] on the right striking his electric lute, magenta sound shockwave rings flying toward [ADN Gaston] on the left. [STYLE]
+Side view retro boss fight in front of the Strasbourg cathedral, [ADN Ménestrel] on the right striking his electric lute, magenta sound shockwave rings flying toward [ADN Sami] on the left. [STYLE]
 ```
 - **MOTION :**
 ```
-The Minstrel strikes a powerful chord, glowing magenta shockwave rings blast outward, the houses in the background wobble and dance, Gaston gets pushed back, camera shakes
+The Minstrel strikes a powerful chord, glowing magenta shockwave rings blast outward, the houses in the background wobble and dance, Sami gets pushed back, camera shakes
 ```
 
-### PLAN 17 — Gaston rate tout (52–56 s)
+### PLAN 17 — Sami rate tout (52–56 s)
 - **KEYFRAME :**
 ```
-Side view, [ADN Gaston] swinging his wooden sword at [ADN Ménestrel] but spinning in place like a ballerina, missing completely, cathedral boss arena. [STYLE]
+Side view, [ADN Sami] swinging his wooden sword at [ADN Ménestrel] but spinning in place like a ballerina, missing completely, cathedral boss arena. [STYLE]
 ```
 - **MOTION :**
 ```
-Gaston swings his sword but his dancing legs make him spin around three times and miss, he wobbles dizzily, comedic timing
+Sami swings his sword but his dancing legs make him spin around three times and miss, he wobbles dizzily, comedic timing
 ```
-- 🎞️ GASTON : « J'peux pas taper, j'arrête pas de faire des pas chassés ! »
+- 🎞️ SAMI : « J'peux pas taper, j'arrête pas de faire des pas chassés ! »
 
 ### PLAN 18 — Note géante en pleine tête (56–59 s)
 - **KEYFRAME :** même cadre que plan 17.
 - **MOTION :**
 ```
-A giant glowing magenta music note flies fast from the lute and hits Gaston right in the helmet, his helmet rings and spins, he stumbles backwards with spiral dizzy eyes
+A giant glowing magenta music note flies fast from the lute and hits Sami right in the helmet, his helmet rings and spins, he stumbles backwards with spiral dizzy eyes
 ```
 - 🎞️ Bruit « DOIIIING ». Cœurs de vie qui tombent à **1 ❤️** (clignotant rouge). Insert BERNARD au loin : « Utilise-le, alors. »
 
 ### PLAN 19 — Le déclic (59–61 s)
 - **KEYFRAME :**
 ```
-Extreme close-up of [ADN Gaston] face, eyes suddenly lighting up with determination, a small pixel sparkle in his eye, magenta glow in the background. [STYLE]
+Extreme close-up of [ADN Sami] face, eyes suddenly lighting up with determination, a small pixel sparkle in his eye, magenta glow in the background. [STYLE]
 ```
 - **MOTION :**
 ```
-Gaston's eyes widen then narrow with determination, a sparkle shines in his eye, quick dramatic zoom in
+Sami's eyes widen then narrow with determination, a sparkle shines in his eye, quick dramatic zoom in
 ```
 - 🎞️ Son « power-up ». La musique repart en version épique.
 
 ### PLAN 20 — Combo de danse (61–67 s) — **10 s possible**
 - **KEYFRAME :**
 ```
-Side view boss arena in front of the Strasbourg cathedral, [ADN Gaston] dancing confidently toward [ADN Ménestrel], magenta shockwaves and music notes flying around him. [STYLE]
+Side view boss arena in front of the Strasbourg cathedral, [ADN Sami] dancing confidently toward [ADN Ménestrel], magenta shockwaves and music notes flying around him. [STYLE]
 ```
 - **MOTION :**
 ```
-Gaston dances toward the boss with perfect rhythm, he spins to dodge a shockwave, does a split under a giant music note, then jumps high in the air, fluid energetic action, camera tracks sideways
+Sami dances toward the boss with perfect rhythm, he spins to dodge a shockwave, does a split under a giant music note, then jumps high in the air, fluid energetic action, camera tracks sideways
 ```
 - 🎞️ Textes rapides façon combo : **« TOUPIE ! »**, **« GRAND ÉCART ! »**, **« SAUT ! »**, **« COMBO x3 »**.
 
 ### PLAN 21 — Il débranche le luth (67–70 s)
 - **KEYFRAME :**
 ```
-Close-up of [ADN Gaston] grabbing the thick glowing cable plugged into the ground behind the electric lute of [ADN Ménestrel], cathedral steps. [STYLE]
+Close-up of [ADN Sami] grabbing the thick glowing cable plugged into the ground behind the electric lute of [ADN Ménestrel], cathedral steps. [STYLE]
 ```
 - **MOTION :**
 ```
-Gaston yanks the glowing cable out of the ground, sparks burst, the magenta glow instantly turns off, the Minstrel freezes with a shocked face
+Sami yanks the glowing cable out of the ground, sparks burst, the magenta glow instantly turns off, the Minstrel freezes with a shocked face
 ```
 - 🎞️ Bruit de prise arrachée + silence. Barre de vie du boss → 0.
 
@@ -266,5 +266,5 @@ The golden pixel trophy spins slowly and sparkles, small stars burst around it, 
 - 🎞️ Jingle de fin (le même à chaque épisode). Textes :
   - **« 🏆 Quête terminée. »**
   - **« Leçon obtenue : parfois, au lieu de lutter contre le courant… danse avec. »**
-  - **« Gaston passe au niveau 2. »** + barre d'XP qui se remplit
+  - **« Sami passe au niveau 2. »** + barre d'XP qui se remplit
   - **« Prochaine sauvegarde : ??? »**

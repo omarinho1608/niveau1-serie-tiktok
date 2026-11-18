@@ -2,7 +2,7 @@
 
 > Copie **mot pour mot** la fiche ADN dans chaque prompt où le personnage apparaît. Termine chaque prompt par le bloc STYLE de `01_style_global.md`.
 
-**Rôle :** apparaît dans tous les épisodes avec un costume d'époque différent, toujours la même tête et le même ton monotone.
+**Rôle :** le mentor cynique et génial. Un PNJ qui a compris qu'il vivait dans un jeu : il connaît toutes les époques, a toujours un plan tordu, méprise tout le monde… sauf Sami, même s'il ne l'avouera jamais. Il apparaît dans chaque époque avec un costume différent, toujours la même tête et le même ton blasé. (Voir `04_ton_et_humour.md`.)
 
 **Fiche ADN – visage (NE CHANGE JAMAIS) :**
 ```
