@@ -27,6 +27,18 @@
 
 ---
 
+## 🕯️ AUTRE SÉRIE : LA VEILLÉE (légendes qui font peur)
+
+> De vraies légendes du folklore, racontées comme un souvenir de famille, avec les règles pour survivre. Pixel art nocturne.
+
+| # | Épisode | Statut | Ouvrir | Prompts |
+|---|---|---|---|---|
+| 01 | **L'Ankou** (Bretagne) | ✍️ Script écrit · ✅ prompts prêts | [📝 Script](la_veillee/ep01_ankou/script.md) | [▶️ **PROMPTS À COLLER**](la_veillee/ep01_ankou/PROMPTS_A_COLLER.md) |
+
+👉 Règles de la série (formule, style, narrateur, prochains épisodes) : [**LISEZ-MOI La Veillée**](la_veillee/README.md)
+
+---
+
 ## 📚 Les règles communes à tous les épisodes de Niveau 1
 
 | Je veux… | Fichier |
