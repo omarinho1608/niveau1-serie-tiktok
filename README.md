@@ -4,7 +4,7 @@
 
 ---
 
-## 📺 LES ÉPISODES : clique sur celui que tu veux
+## 🎮 NIVEAU 1 : LES ÉPISODES (clique sur celui que tu veux)
 
 | # | Épisode | Thème | Où on en est | Ouvrir | Prompts |
 |---|---|---|---|---|---|
@@ -15,7 +15,19 @@
 
 ---
 
-## 📚 Les règles communes à tous les épisodes
+## 📱 AUTRE SÉRIE : EXPÉDITEUR : TOI (angoisse, SMS)
+
+> La nuit, tu reçois des SMS… envoyés depuis ton propre numéro. Même pixel art, mais sombre, sans humour.
+
+| # | Épisode | Statut | Ouvrir | Prompts |
+|---|---|---|---|---|
+| 01 | **La Cuisine** | ✍️ Script écrit · ✅ prompts prêts | [📝 Script](expediteur_toi/ep01_la_cuisine/script.md) | [▶️ **PROMPTS À COLLER**](expediteur_toi/ep01_la_cuisine/PROMPTS_A_COLLER.md) |
+
+👉 Règles de la série (formule, SMS, son, visuel) : [**LISEZ-MOI Expéditeur : Toi**](expediteur_toi/README.md)
+
+---
+
+## 📚 Les règles communes à tous les épisodes de Niveau 1
 
 | Je veux… | Fichier |
 |---|---|
