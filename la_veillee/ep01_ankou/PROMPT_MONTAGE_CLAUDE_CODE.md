@@ -5,8 +5,8 @@
 ## Avant de lancer (5 minutes, sur ton PC Windows)
 
 1. Crée un dossier, par exemple `Documents\Montage_Ankou`.
-2. Dedans, crée un sous-dossier **`clips`** et mets-y **une copie** de tes 14 clips Kling, nommés **`D01.mp4` à `D14.mp4`**.
-3. *(Optionnel)* Crée un sous-dossier **`sons`** et mets-y des bruitages si tu en as (Pixabay Sounds, gratuit), nommés comme ceci : `vent.mp3`, `grincement.mp3`, `papier.mp3`, `couteau.mp3`, `musique.mp3`. S'il en manque, Claude Code fera sans ou les fabriquera.
+2. Dedans, crée un sous-dossier **`clips`** et mets-y **une copie** de tes 17 clips Kling, nommés **`D01.mp4` à `D17.mp4`**.
+3. *(Optionnel)* Crée un sous-dossier **`sons`** et mets-y des bruitages si tu en as (Pixabay Sounds, gratuit), nommés comme ceci : `vent.mp3`, `grincement.mp3`, `papier.mp3`, `couteau.mp3`, `grillons.mp3`, `coups_porte.mp3`, `claque.mp3`, `musique.mp3`. S'il en manque, Claude Code fera sans ou les fabriquera.
 4. Ouvre l'application Claude → onglet **Code** → **nouvelle session en Local** → choisis le dossier `Montage_Ankou`.
 5. Copie **tout le bloc ci-dessous** (bouton de copie en haut à droite du bloc) et colle-le dans la session.
 
@@ -16,7 +16,7 @@
 Tu es mon monteur vidéo. Je ne sais pas coder : fais tout toi-même, explique-moi simplement ce que tu fais, et demande-moi mon accord avant d'installer un logiciel.
 
 OBJECTIF
-Monter automatiquement une vidéo TikTok verticale (1080x1920, 30 i/s, MP4 H.264 + AAC) de 1 min 50 à 2 min 20, prête à poster : épisode 01 « L'Ankou » de ma série « La Veillée » (légendes du folklore racontées comme un souvenir de famille, ambiance angoissante, pixel art 16-bit nocturne).
+Monter automatiquement une vidéo TikTok verticale (1080x1920, 30 i/s, MP4 H.264 + AAC) d'environ 1 min 55 (entre 1 min 45 et 2 min 10), prête à poster : épisode 01 « L'Ankou » de ma série « La Veillée » (légendes du folklore racontées comme un souvenir de famille, ambiance angoissante, pixel art 16-bit nocturne).
 
 RÈGLES DE TRAVAIL
 - Travaille UNIQUEMENT dans le dossier où tu es lancé. Ne touche à rien ailleurs.
@@ -26,8 +26,8 @@ RÈGLES DE TRAVAIL
 - Crée un fichier SUIVI.md avec mes règles de montage (celles de ce message, section STYLE). À chaque correction que je te demande, ajoute une règle datée dans SUIVI.md, et relis SUIVI.md avant chaque nouveau montage.
 
 FICHIERS FOURNIS
-- clips/D01.mp4 à clips/D14.mp4 : les plans animés (pixel art, 5 ou 10 s chacun, 9:16).
-- sons/ (optionnel) : vent.mp3, grincement.mp3, papier.mp3, couteau.mp3, musique.mp3. S'il en manque, fabrique un fond sonore simple avec ffmpeg (vent = bruit brun filtré passe-bas, très bas) et dis-moi lesquels manquent.
+- clips/D01.mp4 à clips/D17.mp4 : les plans animés (pixel art, 5 ou 10 s chacun, 9:16). Certains clips servent deux fois (voir SCRIPT).
+- sons/ (optionnel) : vent.mp3, grincement.mp3, papier.mp3, couteau.mp3, grillons.mp3, coups_porte.mp3, claque.mp3, musique.mp3. S'il en manque, fabrique un fond sonore simple avec ffmpeg (vent = bruit brun filtré passe-bas, très bas) et dis-moi lesquels manquent.
 Si un clip manque ou a un autre nom, arrête-toi et demande-moi.
 
 OUTILS (Windows, gratuits)
@@ -35,54 +35,57 @@ OUTILS (Windows, gratuits)
 - Vérifie ce qui est déjà installé avant de proposer quoi que ce soit.
 
 VOIX (génère-les avec edge-tts, une réplique = un fichier, dans travail/voix/)
-- NARRATEUR (« je », jeune adulte, grave, posé, lent) : fr-FR-HenriNeural, rate -8 %, pitch -4Hz.
+- NARRATEUR (« je », jeune adulte, grave, tendu, parle AU PRÉSENT, phrases courtes, débit un peu rapide pour garder la tension) : fr-FR-HenriNeural, rate -8 %, pitch -4Hz.
 - YVON (vieux grand-père breton, calme, sec) : fr-FR-RemyMultilingualNeural (ou une autre voix masculine française si indisponible), rate -12 %, pitch -10Hz.
 - L'ANKOU (lent, creux, inhumain) : fr-FR-HenriNeural, rate -30 %, puis avec ffmpeg : voix plus grave (asetrate ~0,82 + atempo pour garder la durée), écho (aecho), léger passe-bas.
 - LA VOIX DE GRAND-PÈRE REVENU (plan 20) : voix d'Yvon + le même traitement « Ankou » mais plus léger, et plus lointaine (volume plus bas, réverbération).
 Laisse 0,4 s de silence entre deux phrases, et 1 s avant chaque révélation (marquées ⏸ ci-dessous).
 
 STYLE (à respecter, référence : chaînes TikTok de folklore narré)
-- Rythme : une phrase courte toutes les 2 à 3 s. Le plan dure exactement le temps de sa voix (+ pauses). Si un clip est plus long, coupe-le ; s'il est plus court, ralentis-le légèrement (max 0,8x) puis fige la dernière image.
-- Mouvement : ajoute un zoom avant très lent (Ken Burns, ~3 % sur la durée du plan) sur chaque plan et chaque carte. Coupes sèches entre les plans. Un fondu au noir de 0,5 s uniquement avant le plan 18 (retour au présent) et à la toute fin.
+- Rythme : NERVEUX. Une phrase courte toutes les 1,5 à 2,5 s, jamais de temps mort sauf les silences ⏸ voulus. Le plan dure exactement le temps de sa voix (+ pauses). Si un clip est plus long, coupe-le ; s'il est plus court, ralentis-le légèrement (max 0,8x) puis fige la dernière image.
+- Mouvement : ajoute un zoom avant très lent (Ken Burns, ~3 % sur la durée du plan) sur chaque plan et chaque carte. Coupes sèches entre les plans. Un fondu au noir de 0,5 s uniquement avant le plan 19 et à la toute fin. Petit tremblement d'image (shake 0,3 s) sur les chocs : coups à la porte (plans 1 et 21), la claque (plan 16).
 - SOUS-TITRES incrustés, mot à mot (groupes de 1 à 3 mots, synchronisés sur le minutage edge-tts), centrés horizontalement, à 62 % de la hauteur de l'image. Police grasse, blanche, contour noir épais, légère ombre. UN mot-clé par phrase en orange-rouge (#FF5A36) : le mot le plus fort (ex. « règle », « charrette », « Mort », « aide-moi », « couteau », « 31 décembre »). Petite animation d'apparition (pop 90 % → 100 % en 0,1 s) si c'est simple à faire en ASS. Pas de sous-titres sur les cartes (le texte de la carte suffit), sauf la voix off.
 - Couleurs : ne change pas les couleurs des clips (déjà sombres). Ajoute un léger vignettage.
 - SON : fond de vent continu très bas (-30 dB). Musique sombre (drone) si fournie, à -28 dB, qui s'arrête net au plan 20. Les voix toujours bien au-dessus (baisse automatique du fond quand on parle). Volume final normalisé à -14 LUFS.
 
 CARTES À DESSINER (Pillow, 1080x1920, PNG dans travail/cartes/)
-- FICHE (plan 2, en superposition sur le clip D02, fond légèrement assombri) : en haut, « L'ANKOU » en très grand (police pixel, blanc cassé) ; dessous en rouge « [ FINISTÈRE · BRETAGNE ] » ; une jauge « NIVEAU DE DANGER » de 12 cases pixel allant du vert au rouge, toutes allumées, avec le mot « MORTEL » ; en bas, en petit rouge : « LE SERVITEUR DE LA MORT. IL VIENT CHERCHER LES ÂMES AVEC SA CHARRETTE. »
+- FICHE (plan 3, en superposition sur le clip D02, fond légèrement assombri) : en haut, « L'ANKOU » en très grand (police pixel, blanc cassé) ; dessous en rouge « [ FINISTÈRE · BRETAGNE ] » ; une jauge « NIVEAU DE DANGER » de 12 cases pixel allant du vert au rouge, toutes allumées, avec le mot « MORTEL » ; en bas, en petit rouge : « LE SERVITEUR DE LA MORT. IL VIENT CHERCHER LES ÂMES AVEC SA CHARRETTE. »
+- TAMPONS « RÈGLE 1 ✗ » (plan 8) et « RÈGLE 2 ✗ » (plan 11) : petit tampon rouge incliné qui s'écrase en haut à droite pendant 1,5 s, avec un bruit sourd.
 - 3 CARTES RÈGLES (plans 5, 6, 7) : grande feuille de parchemin beige pixel au centre sur fond noir, petit tampon « RÈGLE 1 » (2, 3) en haut à gauche, texte noir centré :
-  RÈGLE 1 : « Ne siffle jamais la nuit. Ça l'appelle. »
-  RÈGLE 2 : « Si tu entends grincer une charrette, ne la regarde pas. »
-  RÈGLE 3 : « S'il te demande de l'aide, aide-le. Mais ne prends jamais rien de sa main. »
-- CARTE FINALE (plan 22) : fond noir, titre « 📜 D'OÙ VIENT LA LÉGENDE » (sans emoji si la police ne le gère pas), texte blanc : « L'Ankou est une figure du folklore breton. L'écrivain Anatole Le Braz a recueilli des dizaines de récits à son sujet dans "La Légende de la mort" (1893). On y raconte qu'il conduit une charrette qui grince, et que le dernier mort de l'année dans une paroisse devient l'Ankou de l'année suivante. » Puis, en orange-rouge : « Dans ta famille, quelle règle on te répétait ? 👇 » (flèche dessinée si pas d'emoji).
+  RÈGLE 1 : « Ne siffle jamais la nuit. »
+  RÈGLE 2 : « Ne regarde jamais la charrette. »
+  RÈGLE 3 : « Ne prends jamais rien de sa main. »
+- CARTE FINALE (plan 24) : fond noir, titre « 📜 D'OÙ VIENT LA LÉGENDE » (sans emoji si la police ne le gère pas), texte blanc : « L'Ankou est une figure du folklore breton. L'écrivain Anatole Le Braz a recueilli des dizaines de récits à son sujet dans "La Légende de la mort" (1893). On y raconte qu'il conduit une charrette qui grince, et que le dernier mort de l'année dans une paroisse devient l'Ankou de l'année suivante. » Puis, en orange-rouge : « Tu prends ce qu'il te tend ? 👇 » (flèche dessinée si pas d'emoji).
 
-SCRIPT (plan · clip · voix · sons)
-1 · D01 · NARRATEUR : « En Bretagne, les anciens ont une règle. » / « La nuit, si tu entends grincer une charrette… ne te retourne pas. » · vent, grincement très lointain
-2 · D02 + FICHE · NARRATEUR : « On l'appelle l'Ankou. » / « Le serviteur de la Mort. »
-3 · D03 · NARRATEUR : « Mon grand-père, Yvon, vivait seul près de Plouguerneau. » / « J'y passais tous mes étés. » · feu de cheminée
-4 · D03 (suite) · NARRATEUR : « Il me répétait trois règles. »
-5 · CARTE RÈGLE 1 · (pas de voix, 3 s) · papier
-6 · CARTE RÈGLE 2 · (pas de voix, 3 s) · papier
-7 · CARTE RÈGLE 3 · (3 s) puis NARRATEUR : « Je trouvais ça idiot. J'avais douze ans. » · papier
-8 · D04 · NARRATEUR : « Un soir d'août, on rentrait à pied de la fête du village. » / « Et moi, je sifflais. » · un petit sifflement (fabrique-le avec un son sinusoïdal court si besoin)
-9 · D04 (suite) · NARRATEUR : « Grand-père s'est arrêté net. » ⏸ YVON : « Tais-toi. »
-10 · D05 · NARRATEUR : « Derrière nous, une charrette. » / « Elle grinçait. » · grincement qui se rapproche
-11 · D06 · NARRATEUR : « Entre les doigts de grand-père, j'ai regardé. » ⏸ « Je n'aurais pas dû. »
-12 · D07 · NARRATEUR : « Elle s'est arrêtée à notre hauteur. » · grincement qui s'arrête
-13 · D08 (1re moitié) · L'ANKOU : « La cheville de l'essieu… s'est brisée. » ⏸ « Aide-moi. »
-14 · D09 · NARRATEUR : « Grand-père n'a pas discuté. » / « Il a coupé une branche dans la haie. Il l'a taillée avec son propre couteau. » · couteau sur bois
-15 · D08 (2e moitié) · L'ANKOU : « Prends le mien. Il coupe mieux. » / NARRATEUR : « Grand-père n'a même pas regardé le couteau. » / YVON : « Le mien suffira. »
-16 · D10 · L'ANKOU : « Tu connais les règles, Yvon. » ⏸ « On se reverra. Une seule fois. » · grincement qui s'éloigne
-17 · D11 · NARRATEUR : « Il n'en a plus jamais parlé. » / « Mais il ne m'a plus jamais laissé siffler. » · silence presque total
+SCRIPT V2 (plan · clip · voix · sons) — ⏸ = 1 s de silence
+1 · D13 · 3 coups à la porte (+ shake) · NARRATEUR : « Mon grand-père est mort il y a trois jours. » / « Ce soir… il frappe à ma porte. »
+2 · D01 · vent, grincement lointain · NARRATEUR : « En Bretagne, on a une règle. » / « Si une charrette grince derrière toi, la nuit… ne te retourne pas. »
+3 · D02 + FICHE · NARRATEUR : « L'Ankou. » / « Le serviteur de la Mort. »
+4 · D03 · feu de cheminée · NARRATEUR : « Grand-père m'avait donné trois règles. » ⏸ « Je les ai toutes brisées. »
+5 · CARTE RÈGLE 1 · papier · YVON lit : « Ne siffle jamais la nuit. »
+6 · CARTE RÈGLE 2 · papier · YVON : « Ne regarde jamais la charrette. »
+7 · CARTE RÈGLE 3 · papier · YVON : « Et ne prends jamais rien… de sa main. »
+8 · D04 · NARRATEUR : « J'ai douze ans. On rentre de la fête, à pied. » · l'enfant siffle (son sinusoïdal court si besoin) · TAMPON « RÈGLE 1 ✗ »
+9 · D04 (fin) · grillons qui s'arrêtent net · NARRATEUR : « D'un coup… les grillons se taisent. » ⏸ YVON (chuchoté) : « Tais-toi. »
+10 · D05 · grincement qui se rapproche · NARRATEUR : « Derrière nous, ça grince. » / « Et pour la première fois… la main de grand-père tremble. »
+11 · D06 · NARRATEUR : « Je regarde entre ses doigts. » · TAMPON « RÈGLE 2 ✗ » · « Un cheval qui n'a plus que les os. » / « Et sur le banc… quelque chose de trop grand pour être un homme. »
+12 · D07 · la charrette s'arrête net · NARRATEUR : « Elle s'arrête. Juste à côté de nous. »
+13 · D08 (1re moitié) · L'ANKOU : « Yvon. » ⏸ NARRATEUR : « Il connaît son prénom. » / L'ANKOU : « La cheville s'est brisée. Aide-moi. »
+14 · D09 · couteau sur bois · NARRATEUR : « Grand-père taille une branche. Vite. » / « Avec son propre couteau. »
+15 · D08 (2e moitié) · L'ANKOU : « Toi, petit… prends le mien. »
+16 · D15 · NARRATEUR : « Ma main se tend toute seule. » · claque (+ shake) · YVON (crie) : « Ne touche pas ! »
+17 · D16 · L'ANKOU : « L'enfant m'a appelé. » / « Quelqu'un doit monter. » ⏸ YVON : « Alors ce sera moi. » / « Pas lui. »
+18 · D10 · L'ANKOU : « Un 31 décembre, Yvon. » / « Je reviendrai. » · grincement qui s'éloigne, puis les grillons reprennent doucement
 — fondu au noir 0,5 s —
-18 · D12 · NARRATEUR : « Grand-père est mort le 31 décembre. Le dernier jour de l'année. » / « Ici, on dit que le dernier mort de l'année devient l'Ankou… pour toute l'année suivante. »
-19 · D12 (suite) · NARRATEUR : « Ce soir, je dors seul dans sa ferme. » · un grincement, au loin
-20 · D13 · SILENCE TOTAL (musique coupée, vent coupé) 1 s, puis VOIX DE GRAND-PÈRE REVENU : « Petit… la cheville s'est brisée. » ⏸ « Aide-moi. »
-21 · D14 · NARRATEUR : « J'ai son couteau. » / « Mais je ne sais plus… si la règle compte encore, quand c'est lui qui demande. » · respiration
-22 · CARTE FINALE · (5 s, pas de voix) · le vent revient très doucement
+19 · D11 · NARRATEUR : « Il n'en a jamais reparlé. » / « Mais chaque 31 décembre, il veillait toute la nuit. Devant la porte. »
+20 · D12 · NARRATEUR : « Cette année, il s'est endormi. » / « Ici, on dit que le dernier mort de l'année devient l'Ankou. »
+21 · D13 · SILENCE TOTAL (musique et vent coupés) 1 s, puis 3 coups à la porte (+ shake) · VOIX DE GRAND-PÈRE REVENU : « Petit… » ⏸ « La cheville s'est brisée. » / « Aide-moi. »
+22 · D14 · respiration · NARRATEUR : « J'ai son couteau. » / « Je n'ouvre pas. »
+23 · D17 · NARRATEUR : « Alors il glisse sa main sous la porte. » / « Il me tend quelque chose. » ⏸ « Règle numéro trois. » / « Mais c'est la main de mon grand-père. »
+24 · CARTE FINALE · (6 s, pas de voix) · le vent revient très doucement
 
 VÉRIFICATION (obligatoire avant de me dire que c'est fini)
-1. Durée totale entre 1 min 50 et 2 min 20 (jamais sous 1 min). Résolution 1080x1920.
+1. Durée totale entre 1 min 45 et 2 min 10 (jamais sous 1 min). Résolution 1080x1920.
 2. Extrais une image toutes les 10 s dans travail/controle/ et REGARDE-les : sous-titres lisibles, dans le cadre, mot-clé en couleur, cartes bien affichées, pas d'image noire imprévue.
 3. Vérifie le son : aucune voix coupée, pas de saturation, volume final ~ -14 LUFS (mesure-le avec ffmpeg loudnorm/ebur128).
 4. Vérifie que chaque plan est dans le bon ordre (compare avec le SCRIPT).

@@ -1,43 +1,55 @@
-# 🕯️ La Veillée – Épisode 01 : « L'Ankou » (Bretagne)
+# 🕯️ La Veillée – Épisode 01 : « L'Ankou » (Bretagne) · SCRIPT V2
 
-⬅️ [Retour à la série](../README.md) · ▶️ [Prompts à coller](PROMPTS_A_COLLER.md)
+⬅️ [Retour à la série](../README.md) · ▶️ [Prompts à coller](PROMPTS_A_COLLER.md) · 🎬 [Prompt de montage](PROMPT_MONTAGE_CLAUDE_CODE.md)
 
-**Durée :** ~2 min · **Personnages :** le narrateur (enfant puis ado), Grand-père Yvon, l'Ankou · **Clips :** 14
+**Durée :** ~1 min 55 · **Clips :** les 14 déjà prévus + **3 nouveaux** (🆕 `D15`, `D16`, `D17`)
+*(L'ancienne version est dans [`script_v1_archive.md`](script_v1_archive.md).)*
 
-> 🎙️ = narrateur (« je ») · 💬 = dialogue · 🔊 = son · 🗂️ = carte à l'écran (montage)
+### Ce qui change par rapport à la V1
+| V1 (mou) | V2 |
+|---|---|
+| On commençait par la légende | On commence **par la fin** : grand-père, mort, frappe à la porte |
+| Récit au passé, explicatif | **Au présent**, phrases de 3 à 6 mots, sensations (le froid, les grillons qui se taisent, la main qui tremble) |
+| Le narrateur regardait de loin | **Il brise les 3 règles une par une**, et à chaque fois ça empire |
+| La rencontre se réglait vite | L'Ankou **connaît leur prénom**, **tente l'enfant** avec son couteau, et **réclame quelqu'un** |
+| Grand-père aidait, point | Grand-père **se sacrifie** : « Alors ce sera moi. Pas lui. » |
+| Fin : on hésite à ouvrir | Fin : une main osseuse **passe sous la porte** et te tend quelque chose… c'est la main de grand-père |
+
+> 🎙️ narrateur (« je », au présent) · 💬 dialogue · 🔊 son · 🗂️ carte/texte à l'écran · ⏸ silence d'1 s
 
 | # | Temps | Clip | Image | Texte / voix / son |
 |---|---|---|---|---|
-| 1 | 0–6 s | `D01` | Route de campagne bretonne, brouillard, la nuit. Très loin, une petite lanterne qui avance | 🔊 vent, grincement lointain · 🎙️ « En Bretagne, les anciens ont une règle. » · « La nuit, si tu entends grincer une charrette… ne te retourne pas. » |
-| 2 | 6–12 s | `D02` | 🗂️ **Fiche** sur fond de brouillard et de silhouette : « **L'ANKOU** · Finistère, Bretagne · Danger : ☠☠☠☠☠ · *Le serviteur de la Mort. Il vient chercher les âmes avec sa charrette.* » | 🎙️ « On l'appelle l'Ankou. Le serviteur de la Mort. » |
-| 3 | 12–18 s | `D03` | Grand-père Yvon et le narrateur enfant, près d'une cheminée, dans une vieille ferme en pierre | 🎙️ « Mon grand-père, Yvon, vivait seul près de Plouguerneau. J'y passais tous mes étés. » |
-| 4 | 18–22 s | `D03` | Même plan | 🎙️ « Il me répétait trois règles. » |
-| 5 | 22–26 s | ✂️ | 🗂️ Carte parchemin **« RÈGLE 1 : Ne siffle jamais la nuit. Ça l'appelle. »** | 🔊 bruit de papier |
-| 6 | 26–30 s | ✂️ | 🗂️ **« RÈGLE 2 : Si tu entends grincer une charrette, ne la regarde pas. »** | |
-| 7 | 30–36 s | ✂️ | 🗂️ **« RÈGLE 3 : S'il te demande de l'aide, aide-le. Mais ne prends jamais rien de sa main. »** | 🎙️ « Je trouvais ça idiot. J'avais douze ans. » |
-| 8 | 36–44 s | `D04` | Grand-père et l'enfant marchent sur la route, la nuit, dans le brouillard, une lanterne à la main | 🎙️ « Un soir d'août, on rentrait à pied de la fête du village. » · « Et moi, je sifflais. » |
-| 9 | 44–50 s | `D04` | Même plan | 🎙️ « Grand-père s'est arrêté net. » · 💬 **YVON** : « Tais-toi. » |
-| 10 | 50–56 s | `D05` | Gros plan : la main de grand-père se pose sur les yeux de l'enfant | 🔊 **grincement de roue**, de plus en plus proche · 🎙️ « Derrière nous, une charrette. » · « Elle grinçait. » |
-| 11 | 56–64 s | `D06` | Une charrette sort du brouillard, tirée par un cheval maigre et pâle. Une grande silhouette en manteau noir et chapeau large conduit | 🎙️ « Entre les doigts de grand-père, j'ai regardé. » · « Je n'aurais pas dû. » |
-| 12 | 64–70 s | `D07` | Gros plan : la roue de la charrette, la cheville de l'essieu cassée | 🔊 la charrette s'arrête · 🎙️ « Elle s'est arrêtée à notre hauteur. » |
-| 13 | 70–78 s | `D08` | Contre-plongée : l'Ankou se penche. Sous le chapeau, on devine une mâchoire de squelette. Sa faux a la lame tournée vers l'extérieur | 💬 **L'ANKOU** *(voix lente, creuse)* : « La cheville de l'essieu… s'est brisée. » · « Aide-moi. » |
-| 14 | 78–86 s | `D09` | Gros plan : les mains de grand-père taillent une branche de noisetier avec son vieux couteau | 🎙️ « Grand-père n'a pas discuté. » · « Il a coupé une branche dans la haie. Il l'a taillée avec son propre couteau. » |
-| 15 | 86–94 s | `D08` | Même plan que 13 : une main osseuse tend un couteau | 💬 **L'ANKOU** : « Prends le mien. Il coupe mieux. » · 🎙️ « Grand-père n'a même pas regardé le couteau. » · 💬 **YVON** : « Le mien suffira. » |
-| 16 | 94–102 s | `D10` | La charrette repart dans le brouillard, la lanterne s'éloigne | 💬 **L'ANKOU** : « Tu connais les règles, Yvon. » · « On se reverra. Une seule fois. » · 🔊 le grincement s'éloigne |
-| 17 | 102–108 s | `D11` | Le lendemain matin, grand-père, assis seul au bout de la table, pâle | 🎙️ « Il n'en a plus jamais parlé. » · 🎙️ « Mais il ne m'a plus jamais laissé siffler. » |
-| 18 | 108–116 s | `D12` | Aujourd'hui : la ferme vide, la nuit. Le narrateur, ado, seul à la fenêtre | 🎙️ « Grand-père est mort le 31 décembre. Le dernier jour de l'année. » · 🎙️ « Ici, on dit que le dernier mort de l'année devient l'Ankou… pour toute l'année suivante. » |
-| 19 | 116–122 s | `D12` | Même plan | 🎙️ « Ce soir, je dors seul dans sa ferme. » · 🔊 **un grincement**, au loin |
-| 20 | 122–130 s | `D13` | Par la fenêtre : la charrette s'arrête devant la ferme. Le conducteur porte **la casquette de grand-père** | 🔊 silence · 💬 *(voix de grand-père, lointaine et creuse)* : « Petit… la cheville s'est brisée. » · « Aide-moi. » |
-| 21 | 130–136 s | `D14` | POV : la main du narrateur tient le vieux couteau de grand-père. Devant lui, la porte d'entrée | 🎙️ « J'ai son couteau. » · « Mais je ne sais plus… si la règle compte encore, quand c'est lui qui demande. » |
-| 22 | 136–142 s | ✂️ | 🗂️ Carte **« 📜 D'OÙ VIENT LA LÉGENDE »** : « L'Ankou est une figure du folklore breton. L'écrivain Anatole Le Braz a recueilli des dizaines de récits à son sujet dans *La Légende de la mort* (1893). On y raconte qu'il conduit une charrette qui grince, et que le dernier mort de l'année dans une paroisse devient l'Ankou de l'année suivante. » | Question : « **Dans ta famille, quelle règle on te répétait ? 👇** » |
+| 1 | 0–5 s | `D13` | La charrette devant la ferme, le conducteur porte la casquette bleue de grand-père | 🔊 **3 coups à la porte** · 🎙️ « Mon grand-père est mort il y a trois jours. » · « Ce soir… il frappe à ma porte. » |
+| 2 | 5–10 s | `D01` | La route dans le brouillard, la lanterne au loin | 🔊 vent, grincement lointain · 🎙️ « En Bretagne, on a une règle. » · « Si une charrette grince derrière toi, la nuit… ne te retourne pas. » |
+| 3 | 10–14 s | `D02` + 🗂️ fiche | Fiche « L'ANKOU · Finistère · Danger : MORTEL » | 🎙️ « L'Ankou. » · « Le serviteur de la Mort. » |
+| 4 | 14–18 s | `D03` | Grand-père et l'enfant près du feu | 🎙️ « Grand-père m'avait donné trois règles. » · ⏸ « Je les ai toutes brisées. » |
+| 5 | 18–21 s | 🗂️ RÈGLE 1 | Parchemin | 💬 **YVON** *(lit la règle)* : « Ne siffle jamais la nuit. » |
+| 6 | 21–24 s | 🗂️ RÈGLE 2 | Parchemin | 💬 **YVON** : « Ne regarde jamais la charrette. » |
+| 7 | 24–28 s | 🗂️ RÈGLE 3 | Parchemin | 💬 **YVON** : « Et ne prends jamais rien… de sa main. » |
+| 8 | 28–33 s | `D04` | Grand-père et l'enfant sur la route, la nuit | 🎙️ « J'ai douze ans. On rentre de la fête, à pied. » · 🔊 **l'enfant siffle** · 🗂️ petit tampon rouge « **RÈGLE 1 ✗** » |
+| 9 | 33–37 s | `D04` (fin) | Grand-père s'arrête net | 🎙️ « D'un coup… les grillons se taisent. » · ⏸ 💬 **YVON** *(chuchoté)* : « Tais-toi. » |
+| 10 | 37–42 s | `D05` | La main de grand-père sur les yeux de l'enfant | 🔊 **grincement** qui se rapproche · 🎙️ « Derrière nous, ça grince. » · « Et pour la première fois… la main de grand-père tremble. » |
+| 11 | 42–48 s | `D06` | La charrette sort du brouillard, vue entre les doigts | 🎙️ « Je regarde entre ses doigts. » · 🗂️ « **RÈGLE 2 ✗** » · 🎙️ « Un cheval qui n'a plus que les os. » · « Et sur le banc… quelque chose de trop grand pour être un homme. » |
+| 12 | 48–51 s | `D07` | La roue cassée | 🔊 la charrette s'arrête net · 🎙️ « Elle s'arrête. Juste à côté de nous. » |
+| 13 | 51–57 s | `D08` (début) | L'Ankou se penche | 💬 **L'ANKOU** : « Yvon. » · ⏸ 🎙️ « Il connaît son prénom. » · 💬 **L'ANKOU** : « La cheville s'est brisée. Aide-moi. » |
+| 14 | 57–62 s | `D09` | Les mains de grand-père taillent une branche | 🔊 couteau sur bois · 🎙️ « Grand-père taille une branche. Vite. » · « Avec son propre couteau. » |
+| 15 | 62–66 s | `D08` (fin) | La main osseuse tend un couteau | 💬 **L'ANKOU** *(vers l'enfant)* : « Toi, petit… prends le mien. » |
+| 16 | 66–71 s | 🆕 `D15` | POV : la main de l'enfant se tend vers le couteau… la main de grand-père la rabat d'un coup | 🎙️ « Ma main se tend toute seule. » · 🔊 **claque** · 💬 **YVON** *(crie)* : « Ne touche pas ! » |
+| 17 | 71–79 s | 🆕 `D16` | Gros plan : grand-père, debout face à l'Ankou, le regard dur | 💬 **L'ANKOU** : « L'enfant m'a appelé. » · « Quelqu'un doit monter. » · ⏸ 💬 **YVON** : « Alors ce sera moi. » · « Pas lui. » |
+| 18 | 79–85 s | `D10` | La charrette repart dans le brouillard | 💬 **L'ANKOU** : « Un 31 décembre, Yvon. » · « Je reviendrai. » · 🔊 grincement qui s'éloigne… les grillons reprennent |
+| — | | | **fondu au noir** | |
+| 19 | 85–92 s | `D11` | Le lendemain matin, grand-père seul à table | 🎙️ « Il n'en a jamais reparlé. » · « Mais chaque 31 décembre, il veillait toute la nuit. Devant la porte. » |
+| 20 | 92–99 s | `D12` | Aujourd'hui : l'ado seul à la fenêtre | 🎙️ « Cette année, il s'est endormi. » · « Ici, on dit que le dernier mort de l'année devient l'Ankou. » |
+| 21 | 99–106 s | `D13` | La charrette devant la ferme, casquette bleue | 🔊 **silence total**, puis 3 coups · 💬 *(voix de grand-père, creuse)* : « Petit… » · ⏸ « La cheville s'est brisée. » · « Aide-moi. » |
+| 22 | 106–110 s | `D14` | POV : sa main tient le vieux couteau devant la porte | 🎙️ « J'ai son couteau. » · « Je n'ouvre pas. » |
+| 23 | 110–116 s | 🆕 `D17` | Sous la porte, une main osseuse se glisse lentement et tend un objet | 🎙️ « Alors il glisse sa main sous la porte. » · « Il me tend quelque chose. » · ⏸ « Règle numéro trois. » · « Mais c'est la main de mon grand-père. » |
+| 24 | 116–122 s | 🗂️ carte finale | « 📜 D'OÙ VIENT LA LÉGENDE » | Texte de la carte · Question : « **Tu prends ce qu'il te tend ? 👇** » |
 
 ---
 
-## Pourquoi ça fonctionne
-- **La règle d'accroche** pose tout de suite une menace et une consigne que le spectateur ne connaît pas.
-- **Les 3 règles** servent toutes dans l'histoire : le sifflement attire la charrette, le regard est puni par la peur, le couteau refusé le sauve.
-- **Le grand-père a un vrai sang-froid** : c'est un personnage qu'on aime, donc sa mort et son retour touchent.
-- **La fin** retourne la règle n°3 : faut-il aider l'Ankou… quand c'est ton grand-père ?
-- **La carte finale** ancre la légende dans le réel (Anatole Le Braz, 1893) et fait commenter.
-
-> ⚠️ Avant publication, revérifie les détails de la carte « D'OÙ VIENT LA LÉGENDE ». L'histoire de la famille, elle, est inventée.
+## Pourquoi c'est plus prenant
+- **Accroche choc en 5 s** : un mort qui frappe à la porte. On veut savoir comment on en est arrivé là.
+- **Le narrateur est coupable** : il brise les règles une par une, et les tampons « RÈGLE ✗ » rendent ça visible.
+- **La peur de l'adulte** (la main qui tremble) fait plus peur que n'importe quel monstre.
+- **Un vrai enjeu** : l'Ankou veut quelqu'un, et grand-père paie pour l'erreur de l'enfant. C'est le moment d'émotion.
+- **La fin retourne la règle 3** contre le spectateur : il faut choisir entre la règle et son grand-père, d'où des commentaires.

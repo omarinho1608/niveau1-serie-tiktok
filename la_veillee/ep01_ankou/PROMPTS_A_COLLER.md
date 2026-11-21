@@ -41,6 +41,52 @@
 - [ ] D13 · La charrette devant la ferme
 - [ ] D14 · POV : le couteau de grand-père
 
+- [ ] 🆕 C15 / D15 · La main de l'enfant rabattue
+- [ ] 🆕 C16 / D16 · Grand-père face à l'Ankou
+- [ ] 🆕 C17 / D17 · La main sous la porte
+---
+
+# 🆕 SCRIPT V2 — 3 CLIPS À AJOUTER
+*Si tu as déjà fait les 14 premiers clips, il ne te reste que ces 3-là. Même méthode : image clé (C) puis animation (D).*
+
+### ☐ C15 · La main de l'enfant… rabattue (plan 16)
+📎 **Décor :** B1 · **Elements :** Narrateur, Yvon, Ankou
+```
+First-person point of view of a kid, his small hand in a yellow raincoat sleeve slowly reaching up toward a long bony pale hand that offers an old rusty knife from above, the old hand of Grandpa Yvon, an old Breton fisherman with an oversized round head, a thick white mustache, deep wrinkles, calm serious eyes, a dark blue flat cap, a navy blue wool fisherman sweater, brown corduroy trousers, black boots entering the frame from the side, misty road at night, lantern light. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, mist, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
+```
+
+### ☐ D15 · La main de l'enfant… rabattue (plan 16)
+🖼️ **Départ :** `C15` · ⏱️ **5 s** · 📎 **Elements :** Narrateur, Yvon, Ankou
+```
+The kid's hand slowly reaches toward the knife, then the grandfather's hand suddenly slaps it down and away, quick sharp movement, slight camera shake, pixel art style preserved, characters keep their exact design
+```
+
+### ☐ C16 · Grand-père face à l'Ankou (plan 17)
+📎 **Décor :** B1 · **Elements :** Yvon, Ankou
+```
+Close-up of Grandpa Yvon, an old Breton fisherman with an oversized round head, a thick white mustache, deep wrinkles, calm serious eyes, a dark blue flat cap, a navy blue wool fisherman sweater, brown corduroy trousers, black boots looking straight up with a hard determined face, standing in front of a dark cart, the shadow of the Ankou, a very tall thin figure in a long tattered black cloak and a wide-brimmed black felt hat, the face hidden in shadow with only a pale skeletal jaw visible, long bony pale fingers, holding a scythe with its blade turned outward looming above him, misty road at night, lantern light on grandpa's face. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, mist, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
+```
+
+### ☐ D16 · Grand-père face à l'Ankou (plan 17)
+🖼️ **Départ :** `C16` · ⏱️ **10 s** · 📎 **Elements :** Yvon, Ankou
+```
+Grandpa stares up without blinking, his jaw tightens, he slowly nods once, the shadow above him leans closer, the lantern light flickers, very slow push-in, pixel art style preserved, characters keep their exact design
+```
+
+### ☐ C17 · La main sous la porte (plan 23)
+📎 **Décor :** B2 · **Elements :** —
+```
+Low view of the bottom of the closed wooden front door of an old Breton stone farmhouse at night, a long bony pale hand sliding slowly through the gap under the door, offering a small old wooden cart peg, candle light on the stone floor. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, mist, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
+```
+
+### ☐ D17 · La main sous la porte (plan 23)
+🖼️ **Départ :** `C17` · ⏱️ **5 s** · 📎 **Elements :** —
+```
+The bony hand slides slowly under the door toward the camera, then opens its fingers to show the small wooden peg and stays still, the candle light flickers, static camera, eerie silence, pixel art style preserved
+```
+
+⚠️ **C15** a 3 Elements (le maximum). Si Kling mélange les personnages, retire `Ankou` : on ne voit que sa main.
+
 ---
 
 ## ⚙️ À RÉGLER UNE SEULE FOIS
@@ -286,24 +332,4 @@ The hand holding the knife trembles, the other hand slowly reaches toward the do
 
 # ✂️ ÉTAPE E — AU MONTAGE
 
-| Plans | Clip | À ajouter |
-|---|---|---|
-| 1 | `D01` | Vent, grincement lointain, voix off (la règle) |
-| 2 | `D02` | **Fiche** : « L'ANKOU · Finistère, Bretagne · Danger ☠☠☠☠☠ · Le serviteur de la Mort… » |
-| 3–4 | `D03` | Voix off |
-| 5–7 | **cartes parchemin** (fond `D03` flouté) | RÈGLE 1, 2, 3 · bruit de papier |
-| 8–9 | `D04` | Sifflement, « Tais-toi. » |
-| 10 | `D05` | Grincement qui se rapproche |
-| 11 | `D06` | Voix off |
-| 12 | `D07` | La charrette s'arrête |
-| 13 | `D08` (1re moitié) | Voix de l'Ankou (lente, grave, avec écho) |
-| 14 | `D09` | Bruit de couteau sur le bois |
-| 15 | `D08` (2e moitié) | « Prends le mien. » / « Le mien suffira. » |
-| 16 | `D10` | Grincement qui s'éloigne |
-| 17 | `D11` | Silence, voix off |
-| 18–19 | `D12` | Voix off, grincement au loin |
-| 20 | `D13` | **Silence total**, voix de grand-père déformée |
-| 21 | `D14` | Voix off, respiration |
-| 22 | **carte « 📜 D'OÙ VIENT LA LÉGENDE »** | Texte du script + question en commentaire |
-
-💡 **Fiche et cartes de règles :** crée-les une seule fois dans CapCut (cadre parchemin pixel, police pixel), enregistre-les comme modèles, puis change juste le texte à chaque épisode.
+➡️ **Le montage du script V2 est entièrement décrit dans le [🎬 prompt de montage Claude Code](PROMPT_MONTAGE_CLAUDE_CODE.md)** (ordre des clips, voix, cartes, sons). Ordre des clips : `D13 · D01 · D02 · D03 · cartes · D04 · D05 · D06 · D07 · D08 · D09 · D08 · D15 · D16 · D10 · D11 · D12 · D13 · D14 · D17 · carte finale`.
