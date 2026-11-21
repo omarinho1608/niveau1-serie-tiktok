@@ -12,7 +12,7 @@
 
 | # | Créature | Région | Statut | Ouvrir |
 |---|---|---|---|---|
-| 01 | **L'Ankou** | Bretagne | ✍️ Script écrit · ✅ prompts prêts | [📝 Script](ep01_ankou/script.md) · [▶️ **PROMPTS À COLLER**](ep01_ankou/PROMPTS_A_COLLER.md) |
+| 01 | **L'Ankou** | Bretagne | ✍️ Script écrit · ✅ prompts prêts | [📝 Script](ep01_ankou/script.md) · [▶️ **PROMPTS À COLLER**](ep01_ankou/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep01_ankou/PROMPT_MONTAGE_CLAUDE_CODE.md) |
 
 ---
 
