@@ -14,6 +14,8 @@
 |---|---|---|---|---|
 | 01 | **L'Ankou** | Bretagne | ✍️ Script écrit · ✅ prompts prêts | [📝 Script](ep01_ankou/script.md) · [▶️ **PROMPTS À COLLER**](ep01_ankou/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep01_ankou/PROMPT_MONTAGE_CLAUDE_CODE.md) |
 
+🔥 **Vidéo trop molle ?** Colle ce prompt dans ta session de montage : [**Prompt « rends-le captivant »**](PROMPT_RENDRE_CAPTIVANT.md)
+
 ---
 
 ## La formule (à respecter à chaque épisode)
