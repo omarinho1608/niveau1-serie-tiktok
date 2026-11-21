@@ -13,6 +13,7 @@
 | # | Créature | Région | Statut | Ouvrir |
 |---|---|---|---|---|
 | 01 | **L'Ankou** | Bretagne | ✍️ Script écrit · ✅ prompts prêts | [📝 Script](ep01_ankou/script.md) · [▶️ **PROMPTS À COLLER**](ep01_ankou/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep01_ankou/PROMPT_MONTAGE_CLAUDE_CODE.md) |
+| 02 | **Aïcha Kandicha** | Maroc | ✍️ Script écrit · ✅ prompts prêts · ✅ prompt de montage | [📝 Script](ep02_aicha_kandicha/script.md) · [▶️ **PROMPTS À COLLER**](ep02_aicha_kandicha/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep02_aicha_kandicha/PROMPT_MONTAGE_CLAUDE_CODE.md) |
 
 🔥 **Vidéo trop molle ?** Colle ce prompt dans ta session de montage : [**Prompt « rends-le captivant »**](PROMPT_RENDRE_CAPTIVANT.md)
 
@@ -55,6 +56,5 @@ the narrator, a skinny kid with an oversized round head, short messy black curly
 |---|---|---|---|
 | 02 | La Dame Blanche | Partout en France | « Si une femme en blanc fait du stop au bord de la route, ne t'arrête pas. Et si tu t'arrêtes, ne passe pas le pont avec elle. » |
 | 03 | Les Lavandières de nuit | Bretagne / Berry | « Si tu entends laver du linge au lavoir après minuit, ne propose jamais ton aide pour l'essorer. » |
-| 04 | L'Aïcha Kandicha | Maroc | « Près de l'eau, la nuit, si une belle femme t'appelle par ton prénom, regarde ses pieds. » |
 | 05 | Le Loup-Garou (Bête du Gévaudan) | Lozère | « Ne marche jamais seul dans les bois de la Margeride quand la lune est pleine. » |
 | 06 | La Chasse-Galerie | Québec | « Si un canot passe dans le ciel la nuit de Noël, ne prononce pas le nom de Dieu. Et ne monte jamais dedans. » |
