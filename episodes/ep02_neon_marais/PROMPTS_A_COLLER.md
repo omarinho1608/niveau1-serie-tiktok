@@ -62,7 +62,8 @@ realistic, photorealistic, 3D render, smooth gradients, blurry, soft focus, pain
 |---|---|
 | Format | **9:16** (sauf fiches personnages : 1:1) |
 | Curseur Creativity / Relevance | vers **Relevance** |
-| Générations par prompt | 2 à 4, garde la meilleure |
+| Générations par prompt | **1 seule** (régénère uniquement si le résultat est raté) |
+| Mode vidéo | **Standard (720p)**, **sans audio**, **5 s** : le moins cher |
 
 **Nommage :** enregistre chaque fichier sous son code (`A1_gloubak.png`, `B2.png`, `C07.png`, `D07.mp4`…). Au montage, tout sera déjà dans l'ordre.
 

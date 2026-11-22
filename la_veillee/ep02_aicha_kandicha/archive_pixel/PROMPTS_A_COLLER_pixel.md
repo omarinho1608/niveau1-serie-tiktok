@@ -61,7 +61,8 @@ bright cheerful cartoon comedy, daylight, realistic, photorealistic, 3D render, 
 |---|---|
 | Format | **9:16** (fiches personnages : 1:1) |
 | Curseur Creativity / Relevance | vers **Relevance** |
-| Générations par prompt | 2 à 4, garde la meilleure |
+| Générations par prompt | **1 seule** (régénère uniquement si le résultat est raté) |
+| Mode vidéo | **Standard (720p)**, **sans audio**, **5 s** : le moins cher |
 
 **Nommage :** `A1.png`, `B2.png`, `C09.png`, `D09.mp4`… Pour le montage, mets les clips `D01.mp4` à `D17.mp4` dans le dossier `clips`.
 

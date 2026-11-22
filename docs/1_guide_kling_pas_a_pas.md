@@ -82,7 +82,7 @@ Place [Sami] in this scene: [action / pose / expression du plan, reprise du prom
 Characters must keep exactly their reference design, proportions and colors.
 Same 16-bit retro pixel art style as the background, crisp clean pixels, thick dark outlines, flat vibrant colors, vertical 9:16.
 ```
-6. Génère 4 versions et garde la meilleure dans `3_images_cles/planXX.png`.
+6. Génère **1 seule** version (régénère seulement si elle est ratée) dans `3_images_cles/planXX.png`.
 
 **Vérifie avant de passer à la suite :**
 - [ ] Le perso ressemble à sa référence (casque, écharpe, bottes dépareillées…).
@@ -157,7 +157,7 @@ Pour **chaque plan**, dans l'ordre :
    - durée **5 s** (10 s seulement pour le plan 20) ;
    - curseur **Creativity / Relevance** poussé vers **Relevance** ;
    - mode qualité le plus élevé disponible.
-7. Lance **2 à 4 générations** et garde la meilleure dans `4_clips/planXX.mp4`.
+7. Lance **1 seule génération** (en mode Standard 720p, sans audio) et ne régénère que si le résultat est raté dans `4_clips/planXX.mp4`.
 
 ### Quand utiliser l'image de FIN (*end frame*)
 Ajoute une image de fin quand le plan doit **finir précisément** d'une certaine manière :

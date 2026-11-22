@@ -56,7 +56,8 @@ pixel art, pixels, thick black outlines, 3D render, realistic, photorealistic, a
 |---|---|
 | Format | **9:16** (fiches personnages : 1:1) |
 | Curseur Creativity / Relevance | vers **Relevance** |
-| Générations par prompt | 2 à 4, garde la meilleure |
+| Générations par prompt | **1 seule** (régénère uniquement si le résultat est raté) |
+| Mode vidéo | **Standard (720p)**, **sans audio**, **5 s** : le moins cher |
 
 **Nommage (important pour le montage) :** les images s'appellent `I01.png` à `I20.png`, les clips animés `V01.mp4`, `V04.mp4`, `V08.mp4`, `V09.mp4`, `V12.mp4`, `V17.mp4`.
 

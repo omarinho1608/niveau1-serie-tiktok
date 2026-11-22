@@ -42,7 +42,8 @@ bright colors, cheerful, cartoon comedy, daylight, realistic, photorealistic, 3D
 |---|---|
 | Format | **9:16** |
 | Curseur Creativity / Relevance | vers **Relevance** |
-| Générations par prompt | 2 à 4, garde la meilleure |
+| Générations par prompt | **1 seule** (régénère uniquement si le résultat est raté) |
+| Mode vidéo | **Standard (720p)**, **sans audio**, **5 s** : le moins cher |
 | Elements | **aucun** |
 
 ⚠️ **L'écran du téléphone reste toujours vide et blanc** : les SMS s'ajoutent au montage. Si Kling écrit du faux texte sur l'écran, régénère.

@@ -41,7 +41,7 @@ realistic, photorealistic, 3D render, smooth gradients, blurry, soft focus, pain
 | Durée | 5 s |
 | Curseur Creativity / Relevance | vers **Relevance** |
 | Elements à lier | Bernard |
-| Générations | 2 à 4, garde la meilleure |
+| Générations | **1 seule** (mode Standard 720p, sans audio) |
 
 ---
 

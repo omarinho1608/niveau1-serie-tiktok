@@ -100,7 +100,8 @@ bright cheerful colors, cartoon comedy, daylight (unless asked), realistic, phot
 |---|---|
 | Format | **9:16** (fiches personnages : 1:1) |
 | Curseur Creativity / Relevance | vers **Relevance** |
-| Générations par prompt | 2 à 4, garde la meilleure |
+| Générations par prompt | **1 seule** (régénère uniquement si le résultat est raté) |
+| Mode vidéo | **Standard (720p)**, **sans audio**, **5 s** : le moins cher |
 
 **Nommage :** `A1.png`, `B2.png`, `C08.png`, `D08.mp4`…
 
