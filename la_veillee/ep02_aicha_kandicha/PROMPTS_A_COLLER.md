@@ -1,52 +1,47 @@
-# ▶️ LA VEILLÉE – Épisode 02 « Aïcha Kandicha » – TOUS LES PROMPTS À COLLER
+# ▶️ LA VEILLÉE – Épisode 02 « Aïcha Kandicha » · FORMAT V2 – TOUS LES PROMPTS À COLLER
 
-⬅️ [Retour à la série](../README.md) · 📝 [Script](script.md) · 🎬 [Prompt de montage](PROMPT_MONTAGE_CLAUDE_CODE.md)
+⬅️ [Retour à la série](../README.md) · 📝 [Script](script.md) · 🎬 [Prompt de montage](PROMPT_MONTAGE_CLAUDE_CODE.md) · 🌙 [Guide de la DA](../../docs/5_DA_vectorielle_nuit.md)
 
-> **Un seul fichier, de haut en bas.** **A** = fiches personnages → Elements · **B** = décors · **C** = images clés · **D** = animations.
-> **Déjà prêt :** l'Element **Narrateur** (créé pour l'épisode 01).
+> **Nouvelle méthode, plus rapide :** presque tout est en **images fixes** (Claude Code les anime au montage). Seulement **6 clips animés** dans Kling.
+> **A** = Elements · **B** = décors · **I** = images (génération d'image) · **V** = les 6 clips animés (Image-to-Video).
 
 ## ✅ PROGRESSION
 
-- [ ] A1 · Karim (ado)
-- [ ] A2 · Mima Zohra
-- [ ] A3 · Aïcha Kandicha
-- [ ] B1 · L'oued la nuit
-- [ ] B2 · La maison de Mima (cour de nuit)
-- [ ] B3 · La fête de mariage
-- [ ] C01 · POV : le sabot sous le caftan
-- [ ] C02 · L'oued la nuit
-- [ ] C03 · Silhouette au bord de l'eau (fond de la fiche)
-- [ ] C04 · Mima glisse l'aiguille dans la poche
-- [ ] C05 · Karim sort en cachette
-- [ ] C06 · Au bord de l'oued
-- [ ] C07 · Elle apparaît de l'autre côté
-- [ ] C08 · Karim entre dans l'eau
-- [ ] C09 · Les sabots sous l'eau
-- [ ] C10 · Elle tourne la tête
-- [ ] C11 · POV : la main dans la poche
-- [ ] C12 · POV : planter le fer
-- [ ] C13 · Les deux frères sur la rive
-- [ ] C14 · Mima à la porte
-- [ ] C15 · Le mariage de Karim
-- [ ] C16 · La mariée voilée
-- [ ] C17 · La mariée tourne la tête
-- [ ] D01 · POV : le sabot sous le caftan
-- [ ] D02 · L'oued la nuit
-- [ ] D03 · Silhouette au bord de l'eau (fond de la fiche)
-- [ ] D04 · Mima glisse l'aiguille dans la poche
-- [ ] D05 · Karim sort en cachette
-- [ ] D06 · Au bord de l'oued
-- [ ] D07 · Elle apparaît de l'autre côté
-- [ ] D08 · Karim entre dans l'eau
-- [ ] D09 · Les sabots sous l'eau
-- [ ] D10 · Elle tourne la tête
-- [ ] D11 · POV : la main dans la poche
-- [ ] D12 · POV : planter le fer
-- [ ] D13 · Les deux frères sur la rive
-- [ ] D14 · Mima à la porte
-- [ ] D15 · Le mariage de Karim
-- [ ] D16 · La mariée voilée
-- [ ] D17 · La mariée tourne la tête
+- [ ] A1 · Toi (le héros, récurrent)
+- [ ] A2 · Karim
+- [ ] A3 · Mima Zohra
+- [ ] A4 · Aïcha Kandicha
+- [ ] B1 · La chambre au village (nuit)
+- [ ] B2 · Le couloir de la maison de Mima
+- [ ] B3 · Le chemin vers l'oued
+- [ ] B4 · L'oued (rivière) avant l'aube
+- [ ] B5 · L'horizon à l'aube
+- [ ] I01 · Elle, de dos, de l'autre côté de l'oued
+- [ ] I02 · Toi, réveillé en sursaut
+- [ ] I03 · Le lit vide, la fenêtre ouverte
+- [ ] I04 · Mima terrorisée dans le couloir
+- [ ] I05 · Mima te tend l'aiguille
+- [ ] I06 · Tu cours vers l'oued
+- [ ] I07 · Les roseaux, l'eau immobile
+- [ ] I08 · Karim dans l'eau
+- [ ] I09 · Elle tend la main
+- [ ] I10 · Tu retiens Karim
+- [ ] I11 · Les sabots sous la robe
+- [ ] I12 · Elle tourne la tête
+- [ ] I13 · Toi, figé, l'aiguille au poing
+- [ ] I14 · L'eau monte
+- [ ] I15 · La silhouette dans les roseaux
+- [ ] I16 · Des sabots sous la djellaba
+- [ ] I17 · Karim, l'eau jusqu'au cou
+- [ ] I18 · La première lumière du jour
+- [ ] I19 · POV : l'aiguille au-dessus de la terre
+- [ ] I20 · Fond de l'écran de choix
+- [ ] V01 · Elle, de dos, de l'autre côté de l'oued
+- [ ] V04 · Mima terrorisée dans le couloir
+- [ ] V08 · Karim dans l'eau
+- [ ] V09 · Elle tend la main
+- [ ] V12 · Elle tourne la tête
+- [ ] V17 · Karim, l'eau jusqu'au cou
 
 ---
 
@@ -54,7 +49,7 @@
 
 **Prompt négatif** (colle-le une fois et laisse-le) :
 ```
-bright cheerful cartoon comedy, daylight, realistic, photorealistic, 3D render, smooth gradients, blurry, anime, extra limbs, extra fingers, distorted face, gore, blood, nudity, religious symbols, text, letters, subtitles, watermark, logo, low quality, jpeg artifacts, morphing, flickering
+pixel art, pixels, thick black outlines, 3D render, realistic, photorealistic, anime, painterly, sketch, noise, busy background, bright daylight, cheerful colors, gore, blood, nudity, religious symbols, text, letters, subtitles, watermark, logo, extra limbs, extra fingers, distorted face, morphing, flickering, low quality
 ```
 
 | Réglage | Valeur |
@@ -63,29 +58,37 @@ bright cheerful cartoon comedy, daylight, realistic, photorealistic, 3D render, 
 | Curseur Creativity / Relevance | vers **Relevance** |
 | Générations par prompt | 2 à 4, garde la meilleure |
 
-**Nommage :** `A1.png`, `B2.png`, `C09.png`, `D09.mp4`… Pour le montage, mets les clips `D01.mp4` à `D17.mp4` dans le dossier `clips`.
+**Nommage (important pour le montage) :** les images s'appellent `I01.png` à `I20.png`, les clips animés `V01.mp4`, `V04.mp4`, `V08.mp4`, `V09.mp4`, `V12.mp4`, `V17.mp4`.
+
+⚠️ **Ce n'est plus du pixel art.** Les anciens Elements (Narrateur, Karim, Mima, Aïcha en pixel) ne marchent pas avec ce style : il faut les recréer à l'étape A.
 
 ---
 
-# 🅰️ ÉTAPE A — FICHES PERSONNAGES → ELEMENTS
+# 🅰️ ÉTAPE A — PERSONNAGES → ELEMENTS
 *Génération d'image (1:1), puis Element Library : face en principale, profil en supplémentaire.*
 
-### ☐ A1 · Karim (ado)
+### ☐ A1 · Toi (le héros, récurrent)
+Nom de l'Element : **`Toi`** · Element **récurrent** pour tous les prochains épisodes.
+```
+Character design sheet of a flat vector cartoon teenage boy with a big round head, light brown skin, short black hair, large round cartoon eyes with black pupils, thick eyebrows, small round glasses, a mustard yellow hoodie, dark navy jeans, white sneakers. Front view and side view, full body, plain light grey background. flat 2D vector cartoon character design, minimalist motion design style, big round head, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple body, no outlines, smooth flat colors
+```
+
+### ☐ A2 · Karim
 Nom de l'Element : **`Karim`**
 ```
-Character reference sheet of Karim, a lanky Moroccan teenage boy with an oversized round head, short black hair with a fade, a faint mustache shadow, bright confident eyes, a white t-shirt under a grey zip hoodie, black track pants, sandals. Front view and side view, full body, plain light grey background, evenly lit. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, simple expressive faces, high quality sprite art
+Character design sheet of Karim, a flat vector cartoon tall teenage boy with a big round head, tan skin, short black hair with a fade, large round cartoon eyes with black pupils, thick eyebrows, a white t-shirt under a grey zip hoodie, black track pants. Front view and side view, full body, plain light grey background. flat 2D vector cartoon character design, minimalist motion design style, big round head, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple body, no outlines, smooth flat colors
 ```
 
-### ☐ A2 · Mima Zohra
+### ☐ A3 · Mima Zohra
 Nom de l'Element : **`Mima`**
 ```
-Character reference sheet of Mima Zohra, an old Moroccan grandmother with an oversized round head, kind deep-set eyes, many wrinkles, a small dotted tattoo on her chin, a colorful patterned headscarf, a long dark green djellaba, silver bracelets. Front view and side view, full body, plain light grey background, evenly lit. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, simple expressive faces, high quality sprite art
+Character design sheet of Mima Zohra, a flat vector cartoon old Moroccan grandmother with a big round head, warm brown skin with soft wrinkles, large round kind cartoon eyes, small dotted tattoo on her chin, a colorful patterned headscarf, a long dark green djellaba, silver bracelets. Front view and side view, full body, plain light grey background. flat 2D vector cartoon character design, minimalist motion design style, big round head, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple body, no outlines, smooth flat colors
 ```
 
-### ☐ A3 · Aïcha Kandicha
+### ☐ A4 · Aïcha Kandicha
 Nom de l'Element : **`Aicha`**
 ```
-Character reference sheet of a strikingly beautiful woman with an oversized round head, very long flowing black hair down to her knees, large dark almond eyes, a faint pale greenish glow on her skin, wearing a long flowing emerald green dress that hides her feet, gold jewelry. Front view and side view, full body, plain dark grey background, evenly lit. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, simple expressive faces, high quality sprite art
+Character design sheet of a flat vector cartoon strikingly beautiful woman with a big round head, pale skin with a faint greenish glow, very long flowing black hair down to her knees, large dark almond cartoon eyes, a long flowing emerald green dress that hides her feet, gold jewelry. Front view and side view, full body, plain dark grey background. flat 2D vector cartoon character design, minimalist motion design style, big round head, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple body, no outlines, smooth flat colors
 ```
 
 ---
@@ -93,243 +96,198 @@ Character reference sheet of a strikingly beautiful woman with an oversized roun
 # 🅱️ ÉTAPE B — DÉCORS
 *Génération d'image (9:16), aucun Element.*
 
-### ☐ B1 · L'oued la nuit
+### ☐ B1 · La chambre au village (nuit)
 ```
-a Moroccan oued (small river) at night, tall reeds and a few palm trees on the banks, a full moon reflected in perfectly still black water, wet mud and stones on the bank, no characters. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ B2 · La maison de Mima (cour de nuit)
-```
-The small courtyard of a traditional rural Moroccan house at night, whitewashed walls, a blue wooden door, a fig tree, colorful zellige tiles on a small fountain, an oil lantern hanging by the door, a dirt path leading out toward dark fields, no characters. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
+Simple bedroom in a rural Moroccan house at night, two single beds with patterned blankets, one bed empty, a wide open window with a light curtain moving, blue moonlight, a small rug, no characters. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
 ```
 
-### ☐ B3 · La fête de mariage
+### ☐ B2 · Le couloir de la maison de Mima
 ```
-A Moroccan wedding party at night under a large decorated tent, warm golden string lights and copper lanterns, low cushioned seats, a decorated wedding throne for the couple on a small stage, tea glasses on round tables, no characters. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, warm golden festive lights at night with deep shadows, subtly unsettling mood, high quality pixel art, vertical 9:16 composition
+Narrow corridor of a rural Moroccan house at night, whitewashed walls, a blue wooden door, colorful zellige tiles at the bottom of the wall, an oil lamp glowing warm orange, no characters. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ B3 · Le chemin vers l'oued
+```
+A dirt path through dark fields at night leading to a line of tall reeds and palm trees, blue pre-dawn sky, a few stars, a small village behind, no characters. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ B4 · L'oued (rivière) avant l'aube
+```
+A small Moroccan river at blue pre-dawn, perfectly still water like a mirror, tall reeds on both banks, palm trees, light mist on the water, wet mud on the bank, no characters. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ B5 · L'horizon à l'aube
+```
+Wide view over the river and the reeds toward the horizon, the very first thin orange line of sunrise far away, the rest of the sky still deep blue, mist, no characters. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
 ```
 
 ---
 
-# ©️ ÉTAPE C — IMAGES CLÉS
-*Génération d'image avec références (9:16) : joins le **décor** + les **Elements** indiqués.*
+# 🖼️ ÉTAPE I — LES 20 IMAGES
+*Génération d'image avec références (9:16) : joins le **décor** + les **Elements** indiqués. 🎞️ = cette image sera aussi animée à l'étape V.*
 
-### ☐ C01 · POV : le sabot sous le caftan *(plan 1, 20)*
-📎 **Décor :** B3 · **Elements :** —
+### ☐ I01 · Elle, de dos, de l'autre côté de l'oued *(plan 1)* 🎞️
+📎 **Décor :** B4 · **Elements :** Aicha
 ```
-First-person point of view looking down at the floor of a Moroccan wedding tent at night, the hem of a lavish white and gold wedding caftan, and from under the hem a dark goat hoof slowly stepping out onto the patterned carpet, warm golden lights, festive blur in the background. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, warm golden festive lights at night with deep shadows, subtly unsettling mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ C02 · L'oued la nuit
-➡️ **Rien à générer** : utilise directement le décor **B1**.
-
-### ☐ C03 · Silhouette au bord de l'eau (fond de la fiche) *(plan 3)*
-📎 **Décor :** B1 · **Elements :** Aicha
-```
-a strikingly beautiful woman with an oversized round head, very long flowing black hair down to her knees, large dark almond eyes, a faint pale greenish glow on her skin, wearing a long flowing emerald green dress that hides her feet, gold jewelry, standing far away on the opposite bank of a Moroccan oued (small river) at night, tall reeds and a few palm trees on the banks, a full moon reflected in perfectly still black water, wet mud and stones on the bank, seen from a distance, almost a silhouette in the moonlight, her long hair moving, lots of empty dark space at the top and bottom of the frame. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
+a flat vector cartoon strikingly beautiful woman with a big round head, pale skin with a faint greenish glow, very long flowing black hair down to her knees, large dark almond cartoon eyes, a long flowing emerald green dress that hides her feet, gold jewelry, seen from behind, standing on the far bank of a still misty river at blue pre-dawn, her long hair moving, small in the frame, lots of mist. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
 ```
 
-### ☐ C04 · Mima glisse l'aiguille dans la poche *(plan 4–7)*
-📎 **Décor :** B2 · **Elements :** Mima, Narrateur
+### ☐ I02 · Toi, réveillé en sursaut *(plan 2)*
+📎 **Décor :** B1 · **Elements :** Toi
 ```
-Mima Zohra, an old Moroccan grandmother with an oversized round head, kind deep-set eyes, many wrinkles, a small dotted tattoo on her chin, a colorful patterned headscarf, a long dark green djellaba, silver bracelets kneeling in front of the narrator, a skinny kid with an oversized round head, short messy black curly hair, small round glasses, big worried eyes, a yellow hooded raincoat, dark blue jeans, white sneakers in the courtyard of a rural Moroccan house at night, she slips a long iron needle into the pocket of his raincoat and looks at him very seriously, oil lantern light. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ C05 · Karim sort en cachette *(plan 8)*
-📎 **Décor :** B2 · **Elements :** Karim, Narrateur
-```
-Karim, a lanky Moroccan teenage boy with an oversized round head, short black hair with a fade, a faint mustache shadow, bright confident eyes, a white t-shirt under a grey zip hoodie, black track pants, sandals sneaking out of the blue door of a rural Moroccan house at night along a dirt path toward dark fields, and far behind him the narrator, a skinny kid with an oversized round head, short messy black curly hair, small round glasses, big worried eyes, a yellow hooded raincoat, dark blue jeans, white sneakers following him, hiding behind a low wall. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
+Close-up of a flat vector cartoon teenage boy with a big round head, light brown skin, short black hair, large round cartoon eyes with black pupils, thick eyebrows, small round glasses, a mustard yellow hoodie, dark navy jeans, white sneakers, sitting up in bed in the dark, eyes wide open with fear, a drop of sweat, cold blue moonlight on half of his face. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
 ```
 
-### ☐ C06 · Au bord de l'oued *(plan 9)*
-📎 **Décor :** B1 · **Elements :** Karim, Narrateur
-```
-Karim, a lanky Moroccan teenage boy with an oversized round head, short black hair with a fade, a faint mustache shadow, bright confident eyes, a white t-shirt under a grey zip hoodie, black track pants, sandals standing at the edge of a Moroccan oued (small river) at night, tall reeds and a few palm trees on the banks, a full moon reflected in perfectly still black water, wet mud and stones on the bank, looking at the water, and the narrator, a skinny kid with an oversized round head, short messy black curly hair, small round glasses, big worried eyes, a yellow hooded raincoat, dark blue jeans, white sneakers hiding in the tall reeds in the foreground, only his worried face and glasses visible. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ C07 · Elle apparaît de l'autre côté *(plan 10)*
-📎 **Décor :** B1 · **Elements :** Aicha
-```
-a strikingly beautiful woman with an oversized round head, very long flowing black hair down to her knees, large dark almond eyes, a faint pale greenish glow on her skin, wearing a long flowing emerald green dress that hides her feet, gold jewelry, standing on the opposite bank of a Moroccan oued (small river) at night, tall reeds and a few palm trees on the banks, a full moon reflected in perfectly still black water, wet mud and stones on the bank in the moonlight, reaching one hand out gently as if calling someone, a soft inviting smile. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ C08 · Karim entre dans l'eau *(plan 11)*
-📎 **Décor :** B1 · **Elements :** Karim, Aicha
-```
-Karim, a lanky Moroccan teenage boy with an oversized round head, short black hair with a fade, a faint mustache shadow, bright confident eyes, a white t-shirt under a grey zip hoodie, black track pants, sandals walking into the black river up to his knees like a sleepwalker, arms loose, empty eyes, toward a strikingly beautiful woman with an oversized round head, very long flowing black hair down to her knees, large dark almond eyes, a faint pale greenish glow on her skin, wearing a long flowing emerald green dress that hides her feet, gold jewelry waiting on the other side in the moonlight. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ C09 · Les sabots sous l'eau *(plan 12)*
+### ☐ I03 · Le lit vide, la fenêtre ouverte *(plan 3)*
 📎 **Décor :** B1 · **Elements :** —
 ```
-Close-up at water level in a moonlit river at night: the hem of a long emerald green dress floating in the shallow water, and under it two dark goat hooves standing in the mud. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
+The empty bed with a thrown-back blanket next to a wide open window, the curtain floating, blue moonlight, rural Moroccan bedroom at night, no characters. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
 ```
 
-### ☐ C10 · Elle tourne la tête *(plan 13)*
-📎 **Décor :** B1 · **Elements :** Aicha
-```
-Close-up of a strikingly beautiful woman with an oversized round head, very long flowing black hair down to her knees, large dark almond eyes, a faint pale greenish glow on her skin, wearing a long flowing emerald green dress that hides her feet, gold jewelry, standing in a moonlit river at night, slowly turning her head toward the viewer, her smile far too wide, her eyes reflecting the moon. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ C11 · POV : la main dans la poche *(plan 14, 22)*
-📎 **Décor :** B1 · **Elements :** —
-```
-First-person point of view, the viewer's own small hand in a yellow raincoat sleeve pulling a long thin iron needle out of a raincoat pocket, moonlit reeds and black water blurred in the background. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ C12 · POV : planter le fer *(plan 15)*
-📎 **Décor :** B1 · **Elements :** Aicha
-```
-First-person point of view, the viewer's own small hand in a yellow raincoat sleeve stabbing a long iron needle into the wet mud of a moonlit riverbank, in the background a strikingly beautiful woman with an oversized round head, very long flowing black hair down to her knees, large dark almond eyes, a faint pale greenish glow on her skin, wearing a long flowing emerald green dress that hides her feet, gold jewelry recoiling in the water with her mouth wide open in a scream. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ C13 · Les deux frères sur la rive *(plan 16)*
-📎 **Décor :** B1 · **Elements :** Karim, Narrateur
-```
-Karim, a lanky Moroccan teenage boy with an oversized round head, short black hair with a fade, a faint mustache shadow, bright confident eyes, a white t-shirt under a grey zip hoodie, black track pants, sandals soaking wet and shivering, sitting on a muddy riverbank at night, and the narrator, a skinny kid with an oversized round head, short messy black curly hair, small round glasses, big worried eyes, a yellow hooded raincoat, dark blue jeans, white sneakers kneeling next to him holding his hand tightly, moonlight, mist on the water. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ C14 · Mima à la porte *(plan 17)*
+### ☐ I04 · Mima terrorisée dans le couloir *(plan 4)* 🎞️
 📎 **Décor :** B2 · **Elements :** Mima
 ```
-Mima Zohra, an old Moroccan grandmother with an oversized round head, kind deep-set eyes, many wrinkles, a small dotted tattoo on her chin, a colorful patterned headscarf, a long dark green djellaba, silver bracelets standing in the blue doorway of a rural Moroccan house at night holding an oil lantern up, her face grave and worried, looking at the viewer. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, night palette of deep navy blue and black with one warm light source, moonlight, eerie folk horror mood, high quality pixel art, vertical 9:16 composition
+Mima Zohra, a flat vector cartoon old Moroccan grandmother with a big round head, warm brown skin with soft wrinkles, large round kind cartoon eyes, small dotted tattoo on her chin, a colorful patterned headscarf, a long dark green djellaba, silver bracelets standing in a narrow corridor at night holding an oil lamp, her face terrified, warm lamp light on her face, deep shadows. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
 ```
 
-### ☐ C15 · Le mariage de Karim *(plan 18)*
-📎 **Décor :** B3 · **Elements :** Karim
+### ☐ I05 · Mima te tend l'aiguille *(plan 6)*
+📎 **Décor :** B2 · **Elements :** Mima, Toi
 ```
-Karim as a young adult groom with an oversized round head, short black hair with a fade, a neat short beard, a wide happy smile, wearing a white embroidered djellaba and a red fez standing happily under a decorated Moroccan wedding tent at night, guests in colorful djellabas and caftans clapping around him, warm golden string lights. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, warm golden festive lights at night with deep shadows, subtly unsettling mood, high quality pixel art, vertical 9:16 composition
-```
-
-### ☐ C16 · La mariée voilée *(plan 19)*
-📎 **Décor :** B3 · **Elements :** Karim, Aicha
-```
-a strikingly beautiful bride with an oversized round head, very long black hair, large dark almond eyes, a faint pale greenish glow on her skin, wearing a lavish white and gold Moroccan wedding caftan and a sheer white veil, gold jewelry sitting very still on a decorated wedding throne next to Karim as a young adult groom with an oversized round head, short black hair with a fade, a neat short beard, a wide happy smile, wearing a white embroidered djellaba and a red fez, under a Moroccan wedding tent at night, her face partly hidden by the veil, warm golden lights. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, warm golden festive lights at night with deep shadows, subtly unsettling mood, high quality pixel art, vertical 9:16 composition
+Mima Zohra, a flat vector cartoon old Moroccan grandmother with a big round head, warm brown skin with soft wrinkles, large round kind cartoon eyes, small dotted tattoo on her chin, a colorful patterned headscarf, a long dark green djellaba, silver bracelets sitting on a low cushion, her cane fallen on the floor, handing a long thin iron needle to a flat vector cartoon teenage boy with a big round head, light brown skin, short black hair, large round cartoon eyes with black pupils, thick eyebrows, small round glasses, a mustard yellow hoodie, dark navy jeans, white sneakers who kneels in front of her, oil lamp light, serious faces. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
 ```
 
-### ☐ C17 · La mariée tourne la tête *(plan 21)*
-📎 **Décor :** B3 · **Elements :** Aicha
+### ☐ I06 · Tu cours vers l'oued *(plan 11)*
+📎 **Décor :** B3 · **Elements :** Toi
 ```
-Close-up of a strikingly beautiful bride with an oversized round head, very long black hair, large dark almond eyes, a faint pale greenish glow on her skin, wearing a lavish white and gold Moroccan wedding caftan and a sheer white veil, gold jewelry under a Moroccan wedding tent at night, slowly turning her veiled face toward the viewer, a smile far too wide visible through the sheer veil, warm golden lights behind her. 16-bit retro pixel art, crisp clean pixels, chunky cartoon characters with oversized round heads and small bodies, thick dark outlines, flat colors, warm golden festive lights at night with deep shadows, subtly unsettling mood, high quality pixel art, vertical 9:16 composition
+a flat vector cartoon teenage boy with a big round head, light brown skin, short black hair, large round cartoon eyes with black pupils, thick eyebrows, small round glasses, a mustard yellow hoodie, dark navy jeans, white sneakers running fast on a dirt path through dark fields toward tall reeds at blue pre-dawn, holding a long iron needle in his fist, motion lines. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I07 · Les roseaux, l'eau immobile *(plan 12)*
+📎 **Décor :** B4 · **Elements :** —
+```
+Close view through tall reeds of a perfectly still river like a black mirror at blue pre-dawn, mist, no characters. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I08 · Karim dans l'eau *(plan 13)* 🎞️
+📎 **Décor :** B4 · **Elements :** Karim
+```
+Karim, a flat vector cartoon tall teenage boy with a big round head, tan skin, short black hair with a fade, large round cartoon eyes with black pupils, thick eyebrows, a white t-shirt under a grey zip hoodie, black track pants seen from behind, standing in the still river up to his knees, arms hanging loose like a sleepwalker, walking toward the far bank, mist, blue pre-dawn. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I09 · Elle tend la main *(plan 14)* 🎞️
+📎 **Décor :** B4 · **Elements :** Aicha
+```
+a flat vector cartoon strikingly beautiful woman with a big round head, pale skin with a faint greenish glow, very long flowing black hair down to her knees, large dark almond cartoon eyes, a long flowing emerald green dress that hides her feet, gold jewelry standing on the far bank of the misty river at blue pre-dawn, facing the viewer, reaching one hand out gently, a soft inviting smile. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I10 · Tu retiens Karim *(plan 15)*
+📎 **Décor :** B4 · **Elements :** Toi, Karim
+```
+a flat vector cartoon teenage boy with a big round head, light brown skin, short black hair, large round cartoon eyes with black pupils, thick eyebrows, small round glasses, a mustard yellow hoodie, dark navy jeans, white sneakers in the river up to his knees, grabbing Karim, a flat vector cartoon tall teenage boy with a big round head, tan skin, short black hair with a fade, large round cartoon eyes with black pupils, thick eyebrows, a white t-shirt under a grey zip hoodie, black track pants by the arm with both hands and pulling back with all his strength, Karim's empty eyes staring ahead, splashes, blue pre-dawn. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I11 · Les sabots sous la robe *(plan 16)*
+📎 **Décor :** B4 · **Elements :** —
+```
+Close-up at water level in a misty river at blue pre-dawn: the hem of a long emerald green dress floating in the shallow water, and under it two dark goat hooves standing in the mud. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I12 · Elle tourne la tête *(plan 17)* 🎞️
+📎 **Décor :** B4 · **Elements :** Aicha
+```
+Close-up of a flat vector cartoon strikingly beautiful woman with a big round head, pale skin with a faint greenish glow, very long flowing black hair down to her knees, large dark almond cartoon eyes, a long flowing emerald green dress that hides her feet, gold jewelry at blue pre-dawn, turning her head toward the viewer, her smile far too wide, her eyes reflecting the pale light. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I13 · Toi, figé, l'aiguille au poing *(plan 18)*
+📎 **Décor :** B4 · **Elements :** Toi
+```
+Close-up of a flat vector cartoon teenage boy with a big round head, light brown skin, short black hair, large round cartoon eyes with black pupils, thick eyebrows, small round glasses, a mustard yellow hoodie, dark navy jeans, white sneakers frozen with fear, jaw clenched, gripping a long iron needle in his fist near his face, cold blue light on his face, mist behind. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I14 · L'eau monte *(plan 20)*
+📎 **Décor :** B4 · **Elements :** Toi, Karim
+```
+Karim, a flat vector cartoon tall teenage boy with a big round head, tan skin, short black hair with a fade, large round cartoon eyes with black pupils, thick eyebrows, a white t-shirt under a grey zip hoodie, black track pants in the river with water up to his chest still walking forward, and a flat vector cartoon teenage boy with a big round head, light brown skin, short black hair, large round cartoon eyes with black pupils, thick eyebrows, small round glasses, a mustard yellow hoodie, dark navy jeans, white sneakers behind him with water up to his waist pulling him back by the hoodie, blue pre-dawn, mist. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I15 · La silhouette dans les roseaux *(plan 21)*
+📎 **Décor :** B4 · **Elements :** —
+```
+Behind tall reeds on a riverbank at blue pre-dawn, a small hunched silhouette of an old woman in a long djellaba holding an oil lamp, her face hidden in shadow, slowly approaching. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I16 · Des sabots sous la djellaba *(plan 22)*
+📎 **Décor :** B4 · **Elements :** —
+```
+Close-up on the muddy riverbank at blue pre-dawn: the hem of a long dark green djellaba, and under it two dark goat hooves sinking in the mud, the warm light of an oil lamp from above. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I17 · Karim, l'eau jusqu'au cou *(plan 23)* 🎞️
+📎 **Décor :** B4 · **Elements :** Karim
+```
+Karim, a flat vector cartoon tall teenage boy with a big round head, tan skin, short black hair with a fade, large round cartoon eyes with black pupils, thick eyebrows, a white t-shirt under a grey zip hoodie, black track pants in the river with water up to his neck, only his head above the still water, empty eyes, a hand holding his collar from the bottom of the frame, mist, blue pre-dawn. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I18 · La première lumière du jour *(plan 24)*
+📎 **Décor :** B5 · **Elements :** —
+```
+Wide view over a misty river toward the horizon, the very first thin orange line of sunrise far away, the rest of the sky deep blue. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I19 · POV : l'aiguille au-dessus de la terre *(plan 25)*
+📎 **Décor :** B4 · **Elements :** —
+```
+First-person view, a simple flat vector hand in a mustard yellow hoodie sleeve holding a long iron needle above wet mud on a riverbank, the river and the mist blurred in the background, blue pre-dawn. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
+```
+
+### ☐ I20 · Fond de l'écran de choix *(plan 26)*
+📎 **Décor :** B4 · **Elements :** Toi, Aicha
+```
+Wide view of the misty river at blue pre-dawn, a flat vector cartoon teenage boy with a big round head, light brown skin, short black hair, large round cartoon eyes with black pupils, thick eyebrows, small round glasses, a mustard yellow hoodie, dark navy jeans, white sneakers small in the water in the foreground seen from behind, and a flat vector cartoon strikingly beautiful woman with a big round head, pale skin with a faint greenish glow, very long flowing black hair down to her knees, large dark almond cartoon eyes, a long flowing emerald green dress that hides her feet, gold jewelry standing on the far bank facing him, a lot of empty space in the middle of the frame. flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, cold blue pre-dawn night lighting with one warm light source, mist, floating dust particles, eerie quiet mood, centered composition, vertical 9:16
 ```
 
 ---
 
-# 🅳 ÉTAPE D — ANIMATIONS
-*Image-to-Video (9:16). Départ = l'image **C** du même numéro. Lie les mêmes Elements. Mouvements **lents**.*
+# 🎞️ ÉTAPE V — LES 6 CLIPS ANIMÉS
+*Image-to-Video (9:16). Départ = l'image **I** du même numéro. Mouvements **minuscules** : c'est un style « marionnette », pas un film d'action.*
 
-### ☐ D01 · POV : le sabot sous le caftan
-🖼️ **Départ :** `C01` · ⏱️ **5 s** · 📎 **Elements :** —
+### ☐ V01 · Elle, de dos, de l'autre côté de l'oued
+🖼️ **Départ :** `I01` · ⏱️ **5 s** · 📎 **Elements :** Aicha
 ```
-The goat hoof slowly steps out from under the caftan hem and taps once on the carpet, then the hem falls back over it, the warm lights flicker, slight handheld sway, pixel art style preserved
-```
-💡 C'est l'image d'ouverture **et** de fin : prends le temps d'avoir un sabot bien lisible.
-
-### ☐ D02 · L'oued la nuit
-🖼️ **Départ :** `B1` · ⏱️ **10 s** · 📎 **Elements :** —
-```
-Very slow push-in over the still black river, the moon reflection trembles slightly, the reeds sway gently, then everything goes perfectly still, pixel art style preserved
-```
-💡 Anime directement le décor B1.
-
-### ☐ D03 · Silhouette au bord de l'eau (fond de la fiche)
-🖼️ **Départ :** `C03` · ⏱️ **5 s** · 📎 **Elements :** Aicha
-```
-Her long hair and dress move slowly as if underwater, she stays perfectly still, the moon reflection trembles, static camera, pixel art style preserved, characters keep their exact design
-```
-💡 Garde de l'espace vide en haut et en bas pour la fiche.
-
-### ☐ D04 · Mima glisse l'aiguille dans la poche
-🖼️ **Départ :** `C04` · ⏱️ **10 s** · 📎 **Elements :** Mima, Narrateur
-```
-Mima slowly slides the needle into the boy's pocket, taps the pocket twice and raises one finger as if giving a warning, the boy nods, the lantern flickers, static camera, pixel art style preserved, characters keep their exact design
-```
-💡 Ce clip sert aussi de fond flou derrière les 3 cartes de règles.
-
-### ☐ D05 · Karim sort en cachette
-🖼️ **Départ :** `C05` · ⏱️ **5 s** · 📎 **Elements :** Karim, Narrateur
-```
-Karim walks quickly away into the dark looking back once, the kid peeks out from behind the wall and follows him, slow tracking shot, pixel art style preserved, characters keep their exact design
+Her very long hair and dress move slowly as if underwater, mist drifts over the still water, slow push-in, subtle animation, almost static camera, flat vector style preserved
 ```
 
-### ☐ D06 · Au bord de l'oued
-🖼️ **Départ :** `C06` · ⏱️ **5 s** · 📎 **Elements :** Karim, Narrateur
+### ☐ V04 · Mima terrorisée dans le couloir
+🖼️ **Départ :** `I04` · ⏱️ **5 s** · 📎 **Elements :** Mima
 ```
-Karim stands still, the reeds stop moving, the water becomes perfectly still like glass, the kid holds his breath, very slow push-in, pixel art style preserved, characters keep their exact design
-```
-
-### ☐ D07 · Elle apparaît de l'autre côté
-🖼️ **Départ :** `C07` · ⏱️ **5 s** · 📎 **Elements :** Aicha
-```
-She slowly reaches out her hand and tilts her head, her long hair flows as if underwater, mist rises from the river, slow push-in, pixel art style preserved, characters keep their exact design
+Mima's hand holding the lamp trembles, the flame flickers and the shadows move on the walls, she slowly turns her head toward the camera, subtle animation, almost static camera, flat vector style preserved, characters keep their exact design
 ```
 
-### ☐ D08 · Karim entre dans l'eau
-🖼️ **Départ :** `C08` · ⏱️ **5 s** · 📎 **Elements :** Karim, Aicha
+### ☐ V08 · Karim dans l'eau
+🖼️ **Départ :** `I08` · ⏱️ **5 s** · 📎 **Elements :** Karim
 ```
-Karim slowly walks deeper into the water without blinking, the ripples spread, she waits with her hand out, camera slowly follows him from behind, pixel art style preserved, characters keep their exact design
-```
-
-### ☐ D09 · Les sabots sous l'eau
-🖼️ **Départ :** `C09` · ⏱️ **5 s** · 📎 **Elements :** —
-```
-The dress hem floats slowly in the water, then lifts slightly to reveal the goat hooves, one hoof shifts in the mud, static camera, pixel art style preserved
-```
-💡 Le plan le plus important du milieu : le sabot doit être évident.
-
-### ☐ D10 · Elle tourne la tête
-🖼️ **Départ :** `C10` · ⏱️ **5 s** · 📎 **Elements :** Aicha
-```
-She slowly turns her head to stare straight at the camera, her smile slowly stretches wider than normal, her hair floats, very slow push-in, pixel art style preserved, characters keep their exact design
+Karim slowly walks deeper into the water, ripples spread around his legs, his arms hang loose, mist drifts, subtle animation, almost static camera, flat vector style preserved, characters keep their exact design
 ```
 
-### ☐ D11 · POV : la main dans la poche
-🖼️ **Départ :** `C11` · ⏱️ **5 s** · 📎 **Elements :** —
+### ☐ V09 · Elle tend la main
+🖼️ **Départ :** `I09` · ⏱️ **5 s** · 📎 **Elements :** Aicha
 ```
-The trembling hand slowly pulls the needle out of the pocket and grips it tight, slight handheld shake, pixel art style preserved
-```
-💡 Pour le plan 22, Claude Code utilisera ce clip à l'envers (la main entre dans la poche, vide).
-
-### ☐ D12 · POV : planter le fer
-🖼️ **Départ :** `C12` · ⏱️ **5 s** · 📎 **Elements :** Aicha
-```
-The hand plants the needle into the mud, at the same moment the woman in the background recoils screaming and the water around her bursts upward, strong camera shake, pixel art style preserved, characters keep their exact design
+She slowly reaches out her hand and tilts her head, her long hair floats as if underwater, mist rises from the water, subtle animation, almost static camera, flat vector style preserved, characters keep their exact design
 ```
 
-### ☐ D13 · Les deux frères sur la rive
-🖼️ **Départ :** `C13` · ⏱️ **10 s** · 📎 **Elements :** Karim, Narrateur
+### ☐ V12 · Elle tourne la tête
+🖼️ **Départ :** `I12` · ⏱️ **5 s** · 📎 **Elements :** Aicha
 ```
-Karim shivers and slowly turns his frightened face toward his little brother, the kid squeezes his hand, mist drifts, static camera, quiet emotional mood, pixel art style preserved, characters keep their exact design
-```
-💡 Moment d'émotion : mouvement minimal.
-
-### ☐ D14 · Mima à la porte
-🖼️ **Départ :** `C14` · ⏱️ **10 s** · 📎 **Elements :** Mima
-```
-Mima slowly raises the lantern, her face goes from worried to grave, the flame flickers on her face, slow push-in, pixel art style preserved, characters keep their exact design
+She slowly turns her head to stare straight at the camera and her smile slowly stretches far too wide, her hair floats, very slow push-in, subtle animation, flat vector style preserved, characters keep their exact design
 ```
 
-### ☐ D15 · Le mariage de Karim
-🖼️ **Départ :** `C15` · ⏱️ **5 s** · 📎 **Elements :** Karim
+### ☐ V17 · Karim, l'eau jusqu'au cou
+🖼️ **Départ :** `I17` · ⏱️ **5 s** · 📎 **Elements :** Karim
 ```
-Karim smiles widely and raises his hands while the guests clap and dance around him, the golden lights twinkle, slow push-in, pixel art style preserved, characters keep their exact design
+The water slowly rises over Karim's chin, small ripples, the hand pulls his collar back, mist drifts, subtle animation, almost static camera, tense mood, flat vector style preserved, characters keep their exact design
 ```
-💡 Même Element Karim : la description « young adult groom » suffit pour le vieillir.
-
-### ☐ D16 · La mariée voilée
-🖼️ **Départ :** `C16` · ⏱️ **5 s** · 📎 **Elements :** Karim, Aicha
-```
-Karim looks lovingly at the bride, the bride stays perfectly still without blinking, only her veil moves slightly, slow push-in toward her, pixel art style preserved, characters keep their exact design
-```
-💡 Utilise l'Element Aicha pour la mariée : c'est la même personne.
-
-### ☐ D17 · La mariée tourne la tête
-🖼️ **Départ :** `C17` · ⏱️ **5 s** · 📎 **Elements :** Aicha
-```
-She slowly turns her head to stare straight at the camera through the veil, her smile stretches far too wide, the festive background slowly goes out of focus, very slow push-in, pixel art style preserved, characters keep their exact design
-```
-💡 Même mouvement que D10 : le spectateur fait le lien.
 
 ---
 
 # ✂️ ÉTAPE E — AU MONTAGE
-➡️ Tout est dans le [🎬 prompt de montage Claude Code](PROMPT_MONTAGE_CLAUDE_CODE.md).
+➡️ Tout le reste (HUD, compte à rebours, cartes, choix, animations des images fixes) est dans le [🎬 prompt de montage Claude Code](PROMPT_MONTAGE_CLAUDE_CODE.md).

@@ -13,13 +13,32 @@
 | # | Créature | Région | Statut | Ouvrir |
 |---|---|---|---|---|
 | 01 | **L'Ankou** | Bretagne | ✍️ Script écrit · ✅ prompts prêts | [📝 Script](ep01_ankou/script.md) · [▶️ **PROMPTS À COLLER**](ep01_ankou/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep01_ankou/PROMPT_MONTAGE_CLAUDE_CODE.md) |
-| 02 | **Aïcha Kandicha** | Maroc | ✍️ Script écrit · ✅ prompts prêts · ✅ prompt de montage | [📝 Script](ep02_aicha_kandicha/script.md) · [▶️ **PROMPTS À COLLER**](ep02_aicha_kandicha/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep02_aicha_kandicha/PROMPT_MONTAGE_CLAUDE_CODE.md) |
+| 02 | **Aïcha Kandicha** | Maroc | 🆕 **FORMAT V2** (vectoriel + compte à rebours) · ✅ script, prompts, montage | [📝 Script](ep02_aicha_kandicha/script.md) · [▶️ **PROMPTS À COLLER**](ep02_aicha_kandicha/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep02_aicha_kandicha/PROMPT_MONTAGE_CLAUDE_CODE.md) |
 
 🔥 **Vidéo trop molle ?** Colle ce prompt dans ta session de montage : [**Prompt « rends-le captivant »**](PROMPT_RENDRE_CAPTIVANT.md)
 
 ---
 
-## La formule (à respecter à chaque épisode)
+## 🆕 FORMAT V2 (à partir de l'épisode 02) — c'est la formule à suivre
+
+> On garde **les légendes**, mais avec la **DA vectorielle animée** ([guide](../docs/5_DA_vectorielle_nuit.md)) et la mécanique des vidéos de survie : **au « tu », compte à rebours, règles, proches à sauver, choix final**.
+
+| Élément | Règle |
+|---|---|
+| **Durée** | Entre **1 min 50 et 3 min 30** (partie 1) |
+| **Narration** | Au **« tu »**, au présent. L'ancien (grand-mère, grand-père…) donne les règles **pendant** l'action, pas en souvenir |
+| **HUD** | En haut à gauche : drapeau + **heure réelle**. En haut à droite : **compte à rebours** rouge lié à la légende (« ☀️ SOLEIL 42:00 », « 🌕 MINUIT », « 🔔 3e COUP »…). Il défile à la seconde et **saute** quand le temps passe |
+| **Règles** | 3 ou 4 règles, sur des **étiquettes rouges** « RÈGLE N°X ». Chacune doit servir : une brisée, une qui sauve, une qui crée le dilemme, une qui donne le compte à rebours |
+| **Enjeu** | Un **proche** à sauver (cousin, frère, petite sœur…) |
+| **Piège** | Au moins un moment où la créature **imite quelqu'un qu'on aime** |
+| **Fin** | **Écran de choix** A/B avec compte à rebours circulaire → « Vote en commentaire · PARTIE 2 bientôt ». La partie 2 suit le vote |
+| **Carte finale** | « 📜 D'OÙ VIENT LA LÉGENDE » (ce qui est vrai dans le folklore) |
+| **Production** | Surtout des **images fixes** animées par Claude Code au montage (zoom, parallaxe, particules, brume, fondus) + **5 à 7 clips Kling** seulement |
+| **Couleur signature** | Le héros en **sweat jaune moutarde**, mots-clés des sous-titres en jaune moutarde |
+
+---
+
+## La formule V1 (épisode 01, pixel art — archivée)
 
 | Temps | Bloc | Contenu |
 |---|---|---|
