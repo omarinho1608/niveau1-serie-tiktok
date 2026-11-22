@@ -19,7 +19,7 @@
 
 | # | Épisode | Statut | Ouvrir |
 |---|---|---|---|
-| 01 | **Le Bonhomme Sept-Heures** (Québec) | ✍️ Script écrit · ⬜ génération | [📝 Script](la_roue/ep01_bonhomme_sept_heures/script.md) · [▶️ Plan de génération](la_roue/ep01_bonhomme_sept_heures/PROMPTS_A_COLLER.md) |
+| 01 | **Le Bonhomme Sept-Heures** (Québec) | ✅ 17 clips générés · ⬜ montage | [📝 Script](la_roue/ep01_bonhomme_sept_heures/script.md) · [▶️ Plan de génération](la_roue/ep01_bonhomme_sept_heures/PROMPTS_A_COLLER.md) |
 
 👉 [**LISEZ-MOI La Roue**](la_roue/README.md)
 
