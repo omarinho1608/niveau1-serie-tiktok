@@ -10,7 +10,7 @@
 ## 📺 LES ÉPISODES
 | # | Légende | Origine | Statut | Ouvrir |
 |---|---|---|---|---|
-| 01 | **Le Bonhomme Sept-Heures** | Québec | ✅ 17 clips générés + créature refaite ([rendus](ep01_bonhomme_sept_heures/rendus/)) · ⬜ montage | [📝 Script](ep01_bonhomme_sept_heures/script.md) · [▶️ Plan de génération](ep01_bonhomme_sept_heures/PROMPTS_A_COLLER.md) |
+| 01 | **Le Bonhomme Sept-Heures** | Québec | ✅ 17 clips générés + créature refaite ([rendus](ep01_bonhomme_sept_heures/rendus/)) · 🎬 prompt de montage prêt | [📝 Script](ep01_bonhomme_sept_heures/script.md) · [▶️ Plan de génération](ep01_bonhomme_sept_heures/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep01_bonhomme_sept_heures/PROMPT_MONTAGE_COMPLET.md) |
 
 ---
 
