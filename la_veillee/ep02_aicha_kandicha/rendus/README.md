@@ -19,17 +19,18 @@ Tout ce qu'il faut pour le montage est ici, **déjà nommé comme dans le prompt
 | Mima | `327288259652952` |
 | Aïcha | `327288261310145` |
 
-## Ce que ça a coûté (1 332 → 970 crédits = **362 crédits**)
+## Ce que ça a coûté (1 332 → 937 crédits = **395 crédits**)
 | Poste | Modèle | Coût |
 |---|---|---|
 | 4 fiches + 6 décors (dont 1 refait) | kling-image-v3_0, 1k | 10 |
 | Tests de modèles (I02) | v3_0 / o1 / omni / gemini | 13 |
 | 12 images avec personnages + 2 sabots refaits | gemini-3.1-flash-image, 1k | 140 |
 | 7 images sans personnage + 2 refaites | kling-image-v3_0, 1k | 9 |
-| 1 clip de 5 s + 5 clips de 4 s | kling-video-v3_0_turbo, 720p | 200 |
+| 1 clip de 5 s + 5 clips de 4 s + V17 refait (et I17 retouchée) | kling-video-v3_0_turbo, 720p | 233 |
 
 ## Leçons pour les prochains épisodes (économies)
 - **Images avec personnages :** `gemini-3.1-flash-image` (10 crédits) en donnant le décor + les dessins face/profil. Les Elements avec les modèles Kling à 1 crédit ne respectent pas assez le personnage dans ce style.
 - **Images sans personnage :** `kling-image-v3_0` en 1k (1 crédit).
 - **Clips :** `kling-video-v3_0_turbo` en 720p, **4 s** (32 crédits) ; le montage ralentit un peu si besoin.
 - **Coût réel d'un épisode V2 :** environ **330 crédits** sans les tests.
+- **Attention aux mains/bras coupés par le bord de l'image :** l'animation les fait « sortir de nulle part ». Avant d'animer une image, vérifier qu'aucun membre n'entre par le bord du cadre (sinon retoucher l'image d'abord, 1 crédit).
