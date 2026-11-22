@@ -64,3 +64,42 @@ first-person view, a simple flat vector hand in a mustard yellow hoodie sleeve h
 - Les **sous-titres** (police condensée, mot rouge).
 
 > 💡 Avantage énorme : comme le style est **plat et minimaliste**, une grande partie de la vidéo est du **motion design** (téléphone, textes, choix). Claude Code peut le fabriquer lui-même au montage, et il y a **beaucoup moins de clips à générer dans Kling** (6 à 10 par vidéo au lieu de 15 à 20).
+
+---
+
+## 5. L'animation (référence n°2 : récit historique animé en vectoriel)
+
+> Deuxième référence analysée : une histoire vraie racontée au « tu », en illustration vectorielle plate, avec une **animation très légère mais vivante**. C'est ce niveau d'animation qu'on vise.
+
+### Ce qu'on voit (et qu'on reprend)
+| Technique | Ce que ça donne | Comment on le fait |
+|---|---|---|
+| **Images quasi fixes** | Chaque plan est une illustration ; c'est la voix et le texte qui avancent | Image Kling (pas forcément de vidéo) |
+| **Animation « marionnette »** | Les personnages bougent par petits gestes : clignement, tête qui tourne, bras qui porte une cigarette, fumée | Kling Image-to-Video avec un mouvement **minime**, ou découpage perso/fond au montage |
+| **Particules d'ambiance** | Poussière qui flotte dans la lumière, fumée, pluie fine, neige | Calque de particules ajouté au montage, en boucle |
+| **Lumière vivante** | Ampoule qui pend et grésille, fenêtres d'immeubles qui s'allument, phares qui balaient | Kling (mouvement lent) ou variation de luminosité au montage |
+| **Transitions en fondu enchaîné** | Les plans **se fondent** l'un dans l'autre (0,3 à 0,6 s), au lieu de coupes sèches : effet de souvenir, très fluide | Montage |
+| **Lent zoom / parallaxe** | La caméra avance doucement ; au premier plan et au fond, les éléments bougent à des vitesses différentes | Montage (zoom) ou Kling (« slow push-in, parallax ») |
+| **Titre fort sur la 1re image** | En haut : « HISTOIRE VRAIE · LIEU ANNÉE », puis 1 mot énorme en rouge (« TUE ») et une ligne rouge | Montage |
+| **Documents et sources** | Unes de journaux tenues par des mains, encadrés « 25 AOÛT 1973 · … · Source : INA » | Image Kling (journal vierge) + texte au montage |
+| **Silhouettes noires** | Les scènes violentes ou anonymes sont montrées en silhouettes plates, jamais en détail | Image Kling |
+
+### Le style des personnages (mise à jour)
+Plus « cartoon » que la première référence : **grosse tête ronde, grands yeux ronds avec pupilles**, sourcils épais très expressifs, petit corps simple, aucun contour.
+
+**Bloc STYLE mis à jour (à utiliser à la place du bloc de la section 2) :**
+```
+flat 2D vector cartoon illustration, minimalist motion design style, characters with big round heads, large round cartoon eyes with black pupils, thick expressive eyebrows, small simple bodies, no outlines, smooth flat colors with soft gradients, warm cinematic lighting (a hanging light bulb, dusk sky, glowing windows), floating dust particles in the light, moody atmosphere, centered composition, vertical 9:16
+```
+
+**Héros mis à jour (« toi ») :**
+```
+a flat vector cartoon young man with a big round head, light brown skin, short black hair, large round cartoon eyes with black pupils, thick eyebrows, small round glasses, a mustard yellow hoodie, dark navy jeans, white sneakers, no outlines
+```
+
+### La méthode de production (plus rapide)
+1. **Kling, génération d'image uniquement** pour la plupart des plans : fond + personnage, style ci-dessus.
+2. **Kling Image-to-Video seulement pour 4 à 6 plans « vivants »**, avec des mouvements **minuscules** : `subtle idle animation, the character blinks and slightly moves his head, smoke rises slowly, dust particles float, almost static camera`.
+3. **Claude Code fait le reste au montage** : zoom lent sur chaque image, parallaxe, particules de poussière, scintillement de l'ampoule, fondus enchaînés entre les plans, titres, documents, sources, sous-titres.
+
+> Résultat : beaucoup moins de crédits Kling, un style **cohérent d'un plan à l'autre** (les images fixes ne se déforment pas), et une vidéo qui paraît animée grâce au montage.
