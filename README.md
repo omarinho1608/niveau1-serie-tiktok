@@ -15,6 +15,16 @@
 
 ---
 
+## 🎡 NOUVELLE SÉRIE : LA ROUE (légendes urbaines terrifiantes, tout en clips)
+
+| # | Épisode | Statut | Ouvrir |
+|---|---|---|---|
+| 01 | **Le Bonhomme Sept-Heures** (Québec) | ✍️ Script écrit · ⬜ génération | [📝 Script](la_roue/ep01_bonhomme_sept_heures/script.md) · [▶️ Plan de génération](la_roue/ep01_bonhomme_sept_heures/PROMPTS_A_COLLER.md) |
+
+👉 [**LISEZ-MOI La Roue**](la_roue/README.md)
+
+---
+
 ## 📱 AUTRE SÉRIE : EXPÉDITEUR : TOI (angoisse, SMS)
 
 > La nuit, tu reçois des SMS… envoyés depuis ton propre numéro. Même pixel art, mais sombre, sans humour.
