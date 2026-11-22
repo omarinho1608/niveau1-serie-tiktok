@@ -34,7 +34,7 @@
 | # | Épisode | Statut | Ouvrir | Prompts |
 |---|---|---|---|---|
 | 01 | **L'Ankou** (Bretagne) | ✍️ Script écrit · ✅ prompts prêts · ✅ prompt de montage | [📝 Script](la_veillee/ep01_ankou/script.md) · [🎬 Montage](la_veillee/ep01_ankou/PROMPT_MONTAGE_CLAUDE_CODE.md) | [▶️ **PROMPTS À COLLER**](la_veillee/ep01_ankou/PROMPTS_A_COLLER.md) |
-| 02 | **Aïcha Kandicha** (Maroc) | 🆕 Format V2 (vectoriel + compte à rebours) · ✅ prêt | [📝 Script](la_veillee/ep02_aicha_kandicha/script.md) · [🎬 Montage](la_veillee/ep02_aicha_kandicha/PROMPT_MONTAGE_CLAUDE_CODE.md) | [▶️ **PROMPTS À COLLER**](la_veillee/ep02_aicha_kandicha/PROMPTS_A_COLLER.md) |
+| 02 | **Aïcha Kandicha** (Maroc) | 🆕 Format V2 · ✅ images et clips générés · ⬜ montage | [📝 Script](la_veillee/ep02_aicha_kandicha/script.md) · [🎬 Montage](la_veillee/ep02_aicha_kandicha/PROMPT_MONTAGE_CLAUDE_CODE.md) | [▶️ **PROMPTS À COLLER**](la_veillee/ep02_aicha_kandicha/PROMPTS_A_COLLER.md) |
 
 👉 Règles de la série (formule, style, narrateur, prochains épisodes) : [**LISEZ-MOI La Veillée**](la_veillee/README.md)
 

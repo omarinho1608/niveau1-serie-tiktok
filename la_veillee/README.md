@@ -13,7 +13,7 @@
 | # | Créature | Région | Statut | Ouvrir |
 |---|---|---|---|---|
 | 01 | **L'Ankou** | Bretagne | ✍️ Script écrit · ✅ prompts prêts | [📝 Script](ep01_ankou/script.md) · [▶️ **PROMPTS À COLLER**](ep01_ankou/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep01_ankou/PROMPT_MONTAGE_CLAUDE_CODE.md) |
-| 02 | **Aïcha Kandicha** | Maroc | 🆕 **FORMAT V2** (vectoriel + compte à rebours) · ✅ script, prompts, montage | [📝 Script](ep02_aicha_kandicha/script.md) · [▶️ **PROMPTS À COLLER**](ep02_aicha_kandicha/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep02_aicha_kandicha/PROMPT_MONTAGE_CLAUDE_CODE.md) |
+| 02 | **Aïcha Kandicha** | Maroc | 🆕 **FORMAT V2** · ✅ script · ✅ **images et clips générés** ([rendus](ep02_aicha_kandicha/rendus/)) · ⬜ montage | [📝 Script](ep02_aicha_kandicha/script.md) · [▶️ **PROMPTS À COLLER**](ep02_aicha_kandicha/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep02_aicha_kandicha/PROMPT_MONTAGE_CLAUDE_CODE.md) |
 
 🔥 **Vidéo trop molle ?** Colle ce prompt dans ta session de montage : [**Prompt « rends-le captivant »**](PROMPT_RENDRE_CAPTIVANT.md)
 

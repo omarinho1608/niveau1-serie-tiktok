@@ -4,7 +4,7 @@
 
 ## Avant de lancer
 1. Dans ton dossier de montage habituel (celui qui contient ton `SUIVI.md`), crée **`ep02_aicha_v2`**.
-2. Dedans, crée **`images`** avec `I01.png` à `I20.png`, et **`clips`** avec `V01.mp4`, `V04.mp4`, `V08.mp4`, `V09.mp4`, `V12.mp4`, `V17.mp4`. Mets-y des **copies**.
+2. **Les images et les clips sont déjà générés** : télécharge les dossiers **`images`** (`I01.png` à `I20.png`) et **`clips`** (`V01`, `V04`, `V08`, `V09`, `V12`, `V17` .mp4) depuis [`rendus/`](rendus/) dans ce dépôt GitHub, et mets-les dans `ep02_aicha_v2`. Ou plus simple : dis à Claude Code de cloner le dépôt `omarinho1608/niveau1-serie-tiktok` (branche `claude/pensive-ramanujan-14exqk`) et de copier `la_veillee/ep02_aicha_kandicha/rendus/images` et `rendus/clips` dans `ep02_aicha_v2/`.
 3. *(Optionnel)* **`sons`** : `eau.mp3`, `grenouilles.mp3`, `pas.mp3`, `coeur.mp3`, `musique.mp3` (drone sombre), `choc.mp3`.
 4. Ouvre ta session Claude Code **dans le dossier de montage habituel** et colle le bloc ci-dessous.
 
