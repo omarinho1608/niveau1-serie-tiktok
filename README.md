@@ -48,6 +48,7 @@
 | Le bloc de style et le prompt négatif | [`docs/2_style_global.md`](docs/2_style_global.md) |
 | Le ton, l'humour, le duo Bernard / Sami, les voix | [`docs/3_ton_et_humour.md`](docs/3_ton_et_humour.md) |
 | Le format POV interactif en 2 parties | [`docs/4_format_pov_interactif.md`](docs/4_format_pov_interactif.md) |
+| 🌙 **Nouvelle DA vectorielle de nuit** (séries d'angoisse) | [`docs/5_DA_vectorielle_nuit.md`](docs/5_DA_vectorielle_nuit.md) |
 | Les fiches de **Sami** et **Bernard** | [`personnages/sami.md`](personnages/sami.md) · [`personnages/bernard.md`](personnages/bernard.md) |
 | L'interface de montage et la checklist avant publication | [`montage/interface_ui.md`](montage/interface_ui.md) · [`montage/checklist.md`](montage/checklist.md) |
 
