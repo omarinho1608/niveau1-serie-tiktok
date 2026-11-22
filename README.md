@@ -40,6 +40,10 @@
 
 ---
 
+💡 **Idées gardées pour plus tard :** [IDEES_POUR_PLUS_TARD.md](IDEES_POUR_PLUS_TARD.md)
+
+---
+
 ## 📚 Les règles communes à tous les épisodes de Niveau 1
 
 | Je veux… | Fichier |
