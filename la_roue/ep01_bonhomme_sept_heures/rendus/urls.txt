@@ -6,3 +6,11 @@ D1 https://s15-kling.klingai.com/kimg/EMXN1y8qQwoGdXBsb2FkEg55bGFiLXN0dW50LXNncB
 D2 https://s15-kling.klingai.com/kimg/EMXN1y8qQwoGdXBsb2FkEg55bGFiLXN0dW50LXNncBopYWdlbnRfdXBsb2FkLzE3OTUzODA4MTcvS3pUa3RYdFN3MC9kMi5wbmc.origin?x-kcdn-pid=112372
 D4 https://s15-kling.klingai.com/kimg/EMXN1y8qQwoGdXBsb2FkEg55bGFiLXN0dW50LXNncBopYWdlbnRfdXBsb2FkLzE3OTUzODA4MTkvbVFVYUVsYkNFci9kNC5wbmc.origin?x-kcdn-pid=112372
 BONHOMME_B https://s15-kling.klingai.com/kimg/EMXN1y8qSwoGdXBsb2FkEg55bGFiLXN0dW50LXNncBoxYWdlbnRfdXBsb2FkLzE3OTUzODIyMjUvSzF6b0xLZXNndC9ib25ob21tZV9iLnBuZw.origin?x-kcdn-pid=112372
+C03 https://s15-kling.klingai.com/kimg/EMXN1y8qRAoGdXBsb2FkEg55bGFiLXN0dW50LXNncBoqYWdlbnRfdXBsb2FkLzE3OTUzODMyNzEvNjJQTFhjWmVpZS9jMDMucG5n.origin?x-kcdn-pid=112372
+C04 https://s15-kling.klingai.com/kimg/EMXN1y8qRAoGdXBsb2FkEg55bGFiLXN0dW50LXNncBoqYWdlbnRfdXBsb2FkLzE3OTUzODMyNzMvaGF3VmtMTmZ4OC9jMDQucG5n.origin?x-kcdn-pid=112372
+C05 https://s15-kling.klingai.com/kimg/EMXN1y8qRAoGdXBsb2FkEg55bGFiLXN0dW50LXNncBoqYWdlbnRfdXBsb2FkLzE3OTUzODMyNzUvZFZIV0hWbldadC9jMDUucG5n.origin?x-kcdn-pid=112372
+C06 https://s15-kling.klingai.com/kimg/EMXN1y8qRAoGdXBsb2FkEg55bGFiLXN0dW50LXNncBoqYWdlbnRfdXBsb2FkLzE3OTUzODMyNzgvc2xvS01XbjBkNC9jMDYucG5n.origin?x-kcdn-pid=112372
+C08 https://s15-kling.klingai.com/kimg/EMXN1y8qRAoGdXBsb2FkEg55bGFiLXN0dW50LXNncBoqYWdlbnRfdXBsb2FkLzE3OTUzODMyODAvd3VIT3VmczZlMC9jMDgucG5n.origin?x-kcdn-pid=112372
+C11 https://s15-kling.klingai.com/kimg/EMXN1y8qRAoGdXBsb2FkEg55bGFiLXN0dW50LXNncBoqYWdlbnRfdXBsb2FkLzE3OTUzODMyODMva2pMTk0wbzlqQS9jMTEucG5n.origin?x-kcdn-pid=112372
+C13 https://s15-kling.klingai.com/kimg/EMXN1y8qRAoGdXBsb2FkEg55bGFiLXN0dW50LXNncBoqYWdlbnRfdXBsb2FkLzE3OTUzODMyODUvd3lwdzc0aFVqQi9jMTMucG5n.origin?x-kcdn-pid=112372
+C14 https://s15-kling.klingai.com/kimg/EMXN1y8qRAoGdXBsb2FkEg55bGFiLXN0dW50LXNncBoqYWdlbnRfdXBsb2FkLzE3OTUzODMyODcvZDU4cHY4VU1aeC9jMTQucG5n.origin?x-kcdn-pid=112372

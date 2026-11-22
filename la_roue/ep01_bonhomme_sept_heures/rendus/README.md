@@ -25,14 +25,32 @@ Capuche sans visage, bouche verticale pleine d'aiguilles, doigts longs comme des
 
 Anciennes versions dans `essais/` (`*_bonhomme_v1`). **Total épisode : 357 crédits.**
 
-## Notes de vérification (à confirmer en visionnant)
+## Contrôle image par image et corrections : 547 → 403 crédits = **144 crédits**
+J'ai visionné les 17 clips image par image. J'ai refait tous ceux qui avaient un défaut visuel :
+| Clip | Défaut trouvé | Correction |
+|---|---|---|
+| V03 | Un objet lumineux apparaît, les chiffres de l'horloge changent, puis un flash au 2e essai | Image sans chiffres et simple zoom lent (2 essais) |
+| V04 | Silhouette avec chapeau (ancien design) | Silhouette à capuche du design B, griffes sur la vitre |
+| V05 | Une main sort du bord droit | Prompt statique, plus aucune main |
+| V06 | La porte s'ouvre et la vitre se brise alors que tu la bloques | La porte reste fermée |
+| V08 | La tête du héros devient grise et change | Nouvelle image vue de dos, Léa regarde par-dessus son épaule |
+| V11 | Sac marron et bras gris (ancien design) | Griffes noires du design B et sac rouge traîné par une corde |
+| V13 | La main griffue devient une main humaine normale | Main-branche noire du design B (**garder les 3 premières secondes**, la fin est un peu floue) |
+| V14 | Le visage du héros change et une main apparaît | Nouvelle image, lueur rouge, presque immobile |
+
+| Poste | Coût |
+|---|---|
+| 9 images (6 retouches + 3 refaites) | 9 |
+| 9 clips (8 + 1 nouvel essai de V03) | 135 |
+
+**Total de l'épisode : 501 crédits.** Toutes les anciennes versions sont dans `essais/`.
+
+## Notes pour le montage
 | Clip | Remarque |
 |---|---|
-| V05 | Une main apparaît à droite dans la dernière seconde → **au montage, garder les 3 premières secondes** |
-| V08 | Le visage du héros change un peu en montant l'escalier → garder les 2 à 3 premières secondes, ou à refaire |
-| V14 | Le visage du héros change et une main apparaît en bas à droite vers la fin → **garder les 2 premières secondes**, ou à refaire |
-| V01 | La silhouette est minuscule au bout de la rue (voulu : il est loin) |
+| V01 | La silhouette est minuscule au bout de la rue (c'est voulu : il est loin) |
+| V03 | Une trotteuse apparaît et tourne = parfait pour le tic-tac |
 | V07 | Ses doigts se posent sur ta tête à la fin = parfait pour le jump scare |
+| V13 | Garder les 3 premières secondes |
 | V15 | Il s'efface au lieu de reculer : ça colle avec « Puis il s'en va » |
-| V17 | Il s'éloigne en traînant le sac : OK |
-| Tous les autres | OK |
+| Tous les autres | OK sur toute la durée |
