@@ -1,3 +1,5 @@
+> ⚠️ **Version remplacée.** Utilise plutôt le [🎬 **PROMPT DE MONTAGE COMPLET**](PROMPT_MONTAGE_COMPLET.md) : il récupère tout seul les images et les clips sur GitHub et contient tout (voix, effets, sons, cartes, vérification).
+
 # 🎬 Prompt de montage pour Claude Code – La Veillée, épisode 02 « Aïcha Kandicha » · FORMAT V2
 
 ⬅️ [Retour à la série](../README.md) · 📝 [Script](script.md) · ▶️ [Prompts Kling](PROMPTS_A_COLLER.md)
