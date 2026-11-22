@@ -9,7 +9,7 @@
 
 | # | Temps | 🎞️ Clip | Ce qu'on voit | Texte / voix / son |
 |---|---|---|---|---|
-| 1 | 0–3 s | ✂️ montage | **La roue** tourne et s'arrête sur une case : silhouette d'un homme maigre avec un sac | 🔊 cliquet qui ralentit · 🎙️ « La roue tourne… et ce soir, elle s'arrête sur toi. » |
+| 1 | 0–3 s | ✂️ montage | **La roue** tourne et s'arrête sur une case : silhouette d'un homme maigre avec un sac | 🔊 cliquet qui ralentit · 🎙️ « La roue tourne… et ce soir, tu auras affaire à… **le Bonhomme Sept-Heures**. » (le nom tombe pile quand la roue s'arrête) |
 | 2 | 3–7 s | `C01` | Une rue de banlieue enneigée au crépuscule, toutes les maisons éclairées ; au bout de la rue, sous un lampadaire, **une silhouette immense avec un sac** | 🎙️ « Au Québec, à sept heures, les enfants doivent être couchés. » · « Sinon, le Bonhomme Sept-Heures vient les chercher. » |
 | 3 | 7–11 s | `C02` | Salon : ta petite sœur Léa, en pyjama, saute sur le canapé devant la télé ; l'horloge murale marque 18:58 | 🎙️ « Tu gardes ta petite sœur Léa. » · « Il est 6 h 58. Elle refuse d'aller se coucher. » · 💬 **LÉA** : « Encore un dessin animé ! » |
 | 4 | 11–14 s | `C03` | Gros plan sur l'horloge murale, l'aiguille avance | 🔊 tic-tac fort · 🗂️ HUD 18:59:00 |

@@ -17,7 +17,7 @@
 ## La formule (60 à 75 s)
 | Temps | Bloc | Contenu |
 |---|---|---|
-| 0–3 s | **La roue** | Bruit de cliquet, la roue ralentit et s'arrête sur la légende. Phrase rituelle fixe : **« La roue tourne… et ce soir, elle s'arrête sur toi. »** |
+| 0–3 s | **La roue** | Bruit de cliquet, la roue ralentit et s'arrête sur la légende. Phrase rituelle fixe : **« La roue tourne… et ce soir, tu auras affaire à… [nom de la légende]. »** |
 | 3–8 s | **La règle** | Le nom de la légende + sa règle en UNE phrase, de préférence un paradoxe ou une menace claire |
 | 8–14 s | **Le cadre** | Une situation du quotidien, un proche avec un prénom, l'heure dans le HUD |
 | 14–25 s | **La menace** | Elle arrive vite, et elle est montrée de plus en plus près |
