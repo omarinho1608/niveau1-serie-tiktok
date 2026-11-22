@@ -10,7 +10,7 @@
 ## 📺 LES ÉPISODES
 | # | Légende | Origine | Statut | Ouvrir |
 |---|---|---|---|---|
-| 01 | **Le Bonhomme Sept-Heures** | Québec | ✅ 17 clips générés ([rendus](ep01_bonhomme_sept_heures/rendus/)) · ⬜ montage | [📝 Script](ep01_bonhomme_sept_heures/script.md) · [▶️ Plan de génération](ep01_bonhomme_sept_heures/PROMPTS_A_COLLER.md) |
+| 01 | **Le Bonhomme Sept-Heures** | Québec | ✅ 17 clips générés + créature refaite ([rendus](ep01_bonhomme_sept_heures/rendus/)) · ⬜ montage | [📝 Script](ep01_bonhomme_sept_heures/script.md) · [▶️ Plan de génération](ep01_bonhomme_sept_heures/PROMPTS_A_COLLER.md) |
 
 ---
 
@@ -30,6 +30,7 @@
 ## Ce qui nous distingue des autres chaînes
 - **Notre phrase rituelle** et **notre roue** (design à nous), avec **« ◀◀ la roue recule »** comme mécanique de seconde chance.
 - **Notre héros** : tête ronde **crème** avec deux points noirs, **sweat jaune moutarde** (pas de tête noire).
+- **Des créatures vraiment terrifiantes, jamais enfantines** : pas de visage (ou un visage faux), une bouche anormale, des membres trop longs, une seule couleur forte (ex. le sac rouge). Toujours proposer 2-3 designs avant de générer.
 - **Plus terrifiant** : la créature apparaît **de plus en plus près à chaque plan**, et chaque épisode a au moins un **jump scare** (silence, puis choc sonore et visuel).
 - **Des légendes urbaines francophones** en priorité : Québec, France, Belgique, Afrique du Nord.
 

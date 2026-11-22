@@ -5,3 +5,4 @@ A3_bonhomme_face https://s15-kling.klingai.com/kimg/EMXN1y8qUQoGdXBsb2FkEg55bGFi
 D1 https://s15-kling.klingai.com/kimg/EMXN1y8qQwoGdXBsb2FkEg55bGFiLXN0dW50LXNncBopYWdlbnRfdXBsb2FkLzE3OTUzODA4MTUvMVBYM2ozc3VDWi9kMS5wbmc.origin?x-kcdn-pid=112372
 D2 https://s15-kling.klingai.com/kimg/EMXN1y8qQwoGdXBsb2FkEg55bGFiLXN0dW50LXNncBopYWdlbnRfdXBsb2FkLzE3OTUzODA4MTcvS3pUa3RYdFN3MC9kMi5wbmc.origin?x-kcdn-pid=112372
 D4 https://s15-kling.klingai.com/kimg/EMXN1y8qQwoGdXBsb2FkEg55bGFiLXN0dW50LXNncBopYWdlbnRfdXBsb2FkLzE3OTUzODA4MTkvbVFVYUVsYkNFci9kNC5wbmc.origin?x-kcdn-pid=112372
+BONHOMME_B https://s15-kling.klingai.com/kimg/EMXN1y8qSwoGdXBsb2FkEg55bGFiLXN0dW50LXNncBoxYWdlbnRfdXBsb2FkLzE3OTUzODIyMjUvSzF6b0xLZXNndC9ib25ob21tZV9iLnBuZw.origin?x-kcdn-pid=112372

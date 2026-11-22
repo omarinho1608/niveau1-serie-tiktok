@@ -16,7 +16,7 @@
 | 5 | 14–18 s | `C04` | La porte d'entrée vue de l'intérieur : à travers la vitre dépolie, une **silhouette très grande et très maigre** se penche | 🔊 **3 coups** lents · 🎙️ « On frappe. » · « Trois fois. » |
 | 6 | 18–22 s | `C05` | Toi, de face, figé dans le couloir, le regard vers la porte | 🎙️ « Il est en avance. » · 🗂️ **CHOIX** : « 1 · TU BLOQUES LA PORTE » / « 2 · TU COUCHES LÉA » |
 | 7 | 22–26 s | `C06` | *(choix 1)* Toi, dos à la porte, qui pousses de toutes tes forces | 🎙️ « Tu bloques la porte avec ton dos. » · ⏸ |
-| 8 | 26–30 s | `C07` | ⚡ **JUMP SCARE** : derrière toi, dans le couloir, **il est déjà à l'intérieur**, son visage blanc lisse sans yeux, un sourire trop grand ; il ouvre son sac | 🔊 silence, puis **choc** · 🗂️ écran rouge **« TU ES MORT. »** · 🎙️ « Il ne passe jamais par la porte. » |
+| 8 | 26–30 s | `C07` | ⚡ **JUMP SCARE** : derrière toi, dans le couloir, **il est déjà à l'intérieur**, une capuche noire **sans visage**, juste une **bouche verticale pleine de dents en aiguilles** ; ses doigts longs comme des branches se posent sur ta tête | 🔊 silence, puis **choc** · 🗂️ écran rouge **« TU ES MORT. »** · 🎙️ « Il ne passe jamais par la porte. » |
 | 9 | 30–35 s | ✂️ montage | **◀◀ LA ROUE RECULE** (images qui défilent à l'envers) puis carte **VRAI** | 🗂️ « **VRAI** · Le Bonhomme Sept-Heures est un personnage du folklore québécois, utilisé pour que les enfants aillent se coucher tôt. Son nom viendrait de l'anglais *bone-setter*, le rebouteux. » |
 | 10 | 35–39 s | `C08` | *(choix 2)* Toi qui portes Léa dans tes bras en courant dans l'escalier | 🎙️ « Tu attrapes Léa. » · « Tu montes les marches deux par deux. » · 🗂️ HUD 18:59:40 |
 | 11 | 39–43 s | `C09` | Chambre : tu bordes Léa en vitesse et tu plonges dans ton lit à côté ; l'horloge-réveil passe à 19:00 | 🔊 **ding** du réveil · 🗂️ HUD 19:00:00 **en rouge** · 🎙️ « Sept heures. Pile. » |
@@ -27,7 +27,7 @@
 | 16 | 58–62 s | `C14` | *(choix 2)* Ta main sur la bouche de Léa, vos deux visages sous la couverture, dans le noir | 🎙️ « Tu poses ta main sur sa bouche. » · « Vous ne respirez plus. » |
 | 17 | 62–66 s | `C15` | Au-dessus de vos lits, la **grande silhouette** se penche, le sac ouvert pendu à son bras ; puis elle recule | 🔊 souffle rauque, puis pas qui s'éloignent · 🎙️ « Il se penche. Longtemps. » · « Puis il s'en va. » |
 | 18 | 66–70 s | `C16` | Le lendemain matin : le lit de Léa est vide, le drap défait ; par la fenêtre, de la neige, des traces de pas immenses | 🎙️ « Au matin, le lit de Léa est vide. » |
-| 19 | 70–74 s | `C17` | Au bout de la rue enneigée, sous le lampadaire, la silhouette avec son sac… **et une petite main qui fait coucou depuis le sac** | 🎙️ « Elle s'était relevée… pour finir son dessin animé. » · 🗂️ « **Et toi, à quelle heure tu te couches ? 👇** » |
+| 19 | 70–74 s | `C17` | Dans la rue enneigée, la silhouette s'éloigne en traînant son sac rouge… **une petite main dépasse du sac** | 🎙️ « Elle s'était relevée… pour finir son dessin animé. » · 🗂️ « **Et toi, à quelle heure tu te couches ? 👇** » |
 
 ---
 
