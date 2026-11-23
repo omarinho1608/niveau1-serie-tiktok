@@ -9,7 +9,7 @@
 ## 📺 LES ÉPISODES
 | # | Histoire | Statut | Ouvrir |
 |---|---|---|---|
-| 01 | **Sur ton épaule** (ta petite sœur Jade) | ✍️ script écrit · ⬜ génération (recharger Kling) · ⬜ montage | [📝 Script](ep01_sur_ton_epaule/script.md) · [▶️ Plan de génération](ep01_sur_ton_epaule/PROMPTS_A_COLLER.md) |
+| 01 | **Sur ton épaule** (ta petite sœur Jade) | ✅ 11 clips générés · 🎬 prompt de montage prêt | [📝 Script](ep01_sur_ton_epaule/script.md) · [▶️ Plan de génération](ep01_sur_ton_epaule/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep01_sur_ton_epaule/PROMPT_MONTAGE_COMPLET.md) |
 
 ## La formule
 | Temps | Bloc | Exemple |

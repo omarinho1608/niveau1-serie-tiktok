@@ -1,0 +1,5 @@
+A1_toi https://s15-kling.klingai.com/klingai-stream-sgp/kling/agent/93f7b7879c560017447f540c1148efb5_c2pa_e2243bc3994b564a7b9dc2ab.png?x-kcdn-pid=112372
+A2_jade https://s15-kling.klingai.com/klingai-stream-sgp/kling/agent/45515e0e90f19569e9354e38c560d517_c2pa_f62330f0d93dc81560656f89.png?x-kcdn-pid=112372
+A3_fausse_jade https://s15-kling.klingai.com/klingai-stream-sgp/kling/agent/5feb8eb1fd67fc4e52b6cebacd36b253_c2pa_a9e024c98b2ac00c67fba8c3.png?x-kcdn-pid=112372
+D1_salon https://s15-kling.klingai.com/klingai-stream-sgp/kling/agent/d735faa12322313c4e12af4da9683be4_c2pa_4d9d6cd8a3a55cc613c2e5e2.png?x-kcdn-pid=112372
+D2_escalier https://s15-kling.klingai.com/klingai-stream-sgp/kling/agent/919cc32f93da5bc418d82a8406576986_c2pa_396dee0aa204822de8f92f93.png?x-kcdn-pid=112372
