@@ -9,7 +9,7 @@
 ## 📺 LES ÉPISODES
 | # | Histoire | Statut | Ouvrir |
 |---|---|---|---|
-| 01 | **Sur ton épaule** (ta petite sœur Jade) | ✅ 11 clips générés · 🎬 prompt de montage prêt | [📝 Script](ep01_sur_ton_epaule/script.md) · [▶️ Plan de génération](ep01_sur_ton_epaule/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep01_sur_ton_epaule/PROMPT_MONTAGE_COMPLET.md) |
+| 01 | **Sur ton épaule** (ta petite sœur Jade) | ✅ 13 clips (nouveau style) · 🎬 prompt de montage prêt | [📝 Script](ep01_sur_ton_epaule/script.md) · [▶️ Plan de génération](ep01_sur_ton_epaule/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep01_sur_ton_epaule/PROMPT_MONTAGE_COMPLET.md) |
 
 ## La formule
 | Temps | Bloc | Exemple |
@@ -20,15 +20,12 @@
 | 50–65 s | **Les deux disent être la vraie** | « Elle ment. Je suis là depuis le début. » |
 | fin | **Écran de vote** : 2 cartes + « PARTIE 2 DEMAIN » + « ABONNE-TOI » | « 1 · LE CANAPÉ » / « 2 · LA CHAMBRE » |
 
-## Le visuel (à respecter à chaque épisode)
-- **Dessin animé 2D nocturne** : tout en bleu nuit, éclairage de lune et d'écrans, ombres douces (pas de vectoriel plat sec).
-- **Personnages** : visages ronds blancs/crème, grands yeux noirs simples, corps simples mais avec vêtements et cheveux détaillés.
-- **La créature-sosie** : le même proche mais « faux » : très longs cheveux noirs qui tombent sur le visage, yeux ronds énormes, sourire beaucoup trop large plein de dents, membres trop longs.
-- **Le téléphone** : un plan sur trois. Grand iPhone sombre au centre, tenu par une main vue de face, bulles iMessage (fait au montage, gratuit).
-- **HUD en haut à gauche** : cadre noir arrondi, point rouge qui clignote, **« 04:04 »** en gros, en dessous « PARTIE 1 · TON SALON » en petit.
-- **Sous-titres** : 1 à 3 mots, MAJUSCULES, gras italique, blanc, un mot-clé en jaune ou rouge.
-- **Ouverture** : petit badge « 04:04 · HISTOIRE #001 » + le titre de l'épisode en encadré.
-- **Fin** : écran noir « UNE SEULE EST LA VRAIE. / TU CROIS QUI ? », deux cartes-images avec un bouton bleu et un rouge, « PARTIE 2 DEMAIN » en rouge, bouton « ABONNE-TOI ».
+## Le visuel (à respecter à chaque épisode) — mis à jour après l'épisode 01
+- **Dessin plat minimaliste** (pas de style livre pour enfants) : tout baigné dans **un seul bleu indigo froid, un peu délavé et brumeux**, faible contraste, grain léger. Seule lumière vive : l'écran du téléphone.
+- **Personnages** : têtes rondes **blanches**, **sans nez, sans joues roses**, deux petits points noirs pour les yeux, corps très simples.
+- **Visages qui montrent la peur** dans les moments de stress : sourcils inquiets, petites pupilles, bouche ouverte qui tremble, larme, goutte de sueur (voir `ep01_sur_ton_epaule/rendus/sources/A1_toi_expressions.png`).
+- **La créature est BEAUCOUP plus détaillée que les autres** : poupée au visage de porcelaine fissuré, énormes yeux noirs aux pupilles minuscules, sourire cousu d'une oreille à l'autre avec dents en aiguilles, cheveux noirs mouillés, membres et mains squelettiques (voir `ep01_sur_ton_epaule/rendus/sources/A3_creature_detaillee.png`).
+- **Le téléphone, le HUD, les sous-titres, l'écran de vote** : faits au montage (voir le prompt de montage de l'épisode 01).
 
 ## Production
 Environ 10 à 12 clips Kling (`kling-video-v2_5`, 720p, 5 s, 15 crédits) + 6 à 8 écrans de téléphone faits au montage. **Budget : environ 170-200 crédits par partie.**

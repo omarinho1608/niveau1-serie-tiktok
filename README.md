@@ -29,7 +29,7 @@
 
 | # | Épisode | Statut | Ouvrir |
 |---|---|---|---|
-| 01 | **Sur ton épaule** | ✅ 11 clips générés · 🎬 prompt de montage prêt | [📝 Script](quatre_h_quatre/ep01_sur_ton_epaule/script.md) · [▶️ Plan de génération](quatre_h_quatre/ep01_sur_ton_epaule/PROMPTS_A_COLLER.md) |
+| 01 | **Sur ton épaule** | ✅ 13 clips (nouveau style) · 🎬 prompt de montage prêt | [📝 Script](quatre_h_quatre/ep01_sur_ton_epaule/script.md) · [▶️ Plan de génération](quatre_h_quatre/ep01_sur_ton_epaule/PROMPTS_A_COLLER.md) |
 
 👉 [**LISEZ-MOI 04:04**](quatre_h_quatre/README.md)
 

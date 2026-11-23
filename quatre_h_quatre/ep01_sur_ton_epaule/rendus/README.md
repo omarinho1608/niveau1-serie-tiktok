@@ -1,24 +1,33 @@
-# 🎬 Rendus Kling – 04:04, épisode 01 « Sur ton épaule »
+# 🎬 Rendus Kling – 04:04, épisode 01 « Sur ton épaule » (style v2)
 
-⬅️ [Script](../script.md) · ▶️ [Plan de génération](../PROMPTS_A_COLLER.md) · 🎬 [Prompt de montage](../PROMPT_MONTAGE_COMPLET.md)
+⬅️ [Script](../script.md) · 🎬 [Prompt de montage](../PROMPT_MONTAGE_COMPLET.md)
 
 | Dossier | Contenu |
 |---|---|
-| `clips/` | **V01 à V11 .mp4** : les 11 clips définitifs (Kling 2.5, 720p, 9:16, 5 s, sans son) |
-| `images/` | C01 à C11 : images de départ |
-| `sources/` | Fiches (toi, Jade, fausse Jade) et décors (salon, escalier) |
-| `essais/` | Versions écartées |
+| `clips/` | **V01 à V13 .mp4** : les 13 clips définitifs, nouveau style (Kling 2.5, 720p, 9:16, 5 s, sans son) |
+| `images/` | S01 à S13 : images de départ |
+| `sources/` | Fiche de la créature détaillée + fiche des expressions de peur du héros |
+| `style_v2/` | Tests de style et versions de travail |
+| `essais/style1_enfantin/` | Première version (style trop enfantin, abandonnée) |
 
-## Coût : 1 341 → environ 1 140 crédits ≈ 200 crédits
-5 fiches et décors + 11 images + 8 images refaites + 12 clips (V11 refait).
+## Les 13 plans
+| Clip | Ce qu'on voit |
+|---|---|
+| V01 | Le canapé, Jade endormie sur ton épaule |
+| V02 | Ton visage inquiet, l'écouteur, la lumière du téléphone |
+| V03 | Jade sur ton épaule, immobile |
+| V04 | La porte de sa chambre en haut de l'escalier, la lumière d'un téléphone |
+| V05 | Son poignet nu (pas de chouchou) |
+| V06 | Jade murmure, les yeux fermés |
+| V07 | Tu pleures en silence en la regardant |
+| V08 | ⚡ Le visage de la poupée fissurée (flash au montage) |
+| V09 | La poupée derrière Jade attrape sa tête avec ses mains squelettiques |
+| V10 | Les mains squelettiques rampent vers ta main sur le plaid |
+| V11 | Jade (avec chouchou) te fait signe en haut de l'escalier |
+| V12 | Sa tête penche beaucoup trop |
+| V13 | La créature derrière toi, ses mains serrent tes épaules, tu es terrifié(e) |
 
-## Contrôle image par image
-| Clip | Remarque | Au montage |
-|---|---|---|
-| V05 | La main glisse et la manche sort du cadre après 2,5 s | garder 0–2,5 s |
-| V08 | Petites icônes de téléphone en haut à droite | recadrer (zoom 108 %) |
-| V10 | Jade rentre et la porte se ferme après 2,5 s | garder 0–2,5 s |
-| V11 | Début trop « mignon » | garder 2–5 s |
-| Tous les autres | OK | |
+**Contrôle image par image : aucun défaut, les 13 clips sont utilisables en entier.**
 
-> ⚠️ La fiche de la **fausse Jade** (`sources/A3_fausse_jade.png`) ressemble à un squelette : à refaire pour la partie 2 si elle se montre en entier.
+## Coût
+Style v1 : ~200 crédits · Style v2 : 3 tests + 2 fiches + 13 images (+2 refaites) + 13 clips ≈ 215 crédits.
