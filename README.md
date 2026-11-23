@@ -29,7 +29,7 @@
 
 | # | Épisode | Statut | Ouvrir |
 |---|---|---|---|
-| 01 | **Les 5 règles** (baby-sitting) | ✍️ script écrit · ⬜ génération | [📝 Script](thread_horreur/ep01_les_cinq_regles/script.md) · [▶️ Plan de génération](thread_horreur/ep01_les_cinq_regles/PROMPTS_A_COLLER.md) |
+| 01 | **Les 5 règles** (baby-sitting) | ✅ 21 clips générés · 🎬 prompt de montage prêt | [📝 Script](thread_horreur/ep01_les_cinq_regles/script.md) · [▶️ Plan de génération](thread_horreur/ep01_les_cinq_regles/PROMPTS_A_COLLER.md) |
 
 👉 [**LISEZ-MOI Thread horreur**](thread_horreur/README.md)
 

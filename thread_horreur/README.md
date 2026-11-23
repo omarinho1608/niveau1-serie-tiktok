@@ -9,7 +9,7 @@
 ## 📺 LES ÉPISODES
 | # | Histoire | Statut | Ouvrir |
 |---|---|---|---|
-| 01 | **Les 5 règles** (baby-sitting) | ✍️ script écrit · ⬜ génération · ⬜ montage | [📝 Script](ep01_les_cinq_regles/script.md) · [▶️ Plan de génération](ep01_les_cinq_regles/PROMPTS_A_COLLER.md) |
+| 01 | **Les 5 règles** (baby-sitting) | ✅ 21 clips générés · 🎬 prompt de montage prêt | [📝 Script](ep01_les_cinq_regles/script.md) · [▶️ Plan de génération](ep01_les_cinq_regles/PROMPTS_A_COLLER.md) · [🎬 **Prompt de montage**](ep01_les_cinq_regles/PROMPT_MONTAGE_COMPLET.md) |
 
 ## La formule
 | Temps | Bloc | Contenu |
