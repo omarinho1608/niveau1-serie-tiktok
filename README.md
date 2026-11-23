@@ -25,6 +25,16 @@
 
 ---
 
+## 🧵 NOUVEAU FORMAT : THREAD HORREUR (histoires vécues inventées, 1 min 30 à 2 min 20)
+
+| # | Épisode | Statut | Ouvrir |
+|---|---|---|---|
+| 01 | **Les 5 règles** (baby-sitting) | ✍️ script écrit · ⬜ génération | [📝 Script](thread_horreur/ep01_les_cinq_regles/script.md) · [▶️ Plan de génération](thread_horreur/ep01_les_cinq_regles/PROMPTS_A_COLLER.md) |
+
+👉 [**LISEZ-MOI Thread horreur**](thread_horreur/README.md)
+
+---
+
 ## 📱 AUTRE SÉRIE : EXPÉDITEUR : TOI (angoisse, SMS)
 
 > La nuit, tu reçois des SMS… envoyés depuis ton propre numéro. Même pixel art, mais sombre, sans humour.
