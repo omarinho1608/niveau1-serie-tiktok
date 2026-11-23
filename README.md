@@ -25,6 +25,16 @@
 
 ---
 
+## 🕓 NOUVEAU FORMAT : 04:04 (sosie + SMS, partie 1 / partie 2)
+
+| # | Épisode | Statut | Ouvrir |
+|---|---|---|---|
+| 01 | **Sur ton épaule** | ✍️ script écrit · ⬜ génération | [📝 Script](quatre_h_quatre/ep01_sur_ton_epaule/script.md) · [▶️ Plan de génération](quatre_h_quatre/ep01_sur_ton_epaule/PROMPTS_A_COLLER.md) |
+
+👉 [**LISEZ-MOI 04:04**](quatre_h_quatre/README.md)
+
+---
+
 ## 🧵 NOUVEAU FORMAT : THREAD HORREUR (histoires vécues inventées, 1 min 30 à 2 min 20)
 
 | # | Épisode | Statut | Ouvrir |
