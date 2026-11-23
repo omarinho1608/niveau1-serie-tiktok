@@ -9,7 +9,7 @@
 | `sources/` | Fiches Inès, Noé, Mme Vasseur et décors D1 à D5 |
 | `essais/` | Versions écartées (créature en crâne, images ratées, V05 sans Noé, V16 où Inès sourit) |
 
-## Coût : 402 → environ 20 crédits
+## Coût : 402 → 21 crédits = **381 crédits**
 | Poste | Coût |
 |---|---|
 | 3 fiches + 2 essais de fiche créature + 5 décors | 10 |
