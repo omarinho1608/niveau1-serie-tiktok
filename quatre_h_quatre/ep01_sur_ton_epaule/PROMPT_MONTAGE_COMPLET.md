@@ -81,7 +81,7 @@ Si sources/sons/ contient des fichiers (pixabay.com/fr/sound-effects), utilise-l
 - Mixage -14 LUFS, crête -1 dBTP.
 
 =====================================================================
-7. SCRIPT (≈ 75 s) — n° · temps · clip · voix / texte
+7. SCRIPT (≈ 1 min 47) — n° · temps · clip · voix / texte
 =====================================================================
 1 · 0–4 s · V01 · badge + NARRATEUR : « Imagine, à 4 h 04, ta petite sœur dort sur ton épaule… et elle t'envoie un vocal depuis sa chambre. »
 2 · 4–7 s · TÉLÉPHONE sur V01 assombri · vocal de « Jade 🌙 » qui arrive (0:04) · NARRATEUR : « Tu mets ton écouteur. »
