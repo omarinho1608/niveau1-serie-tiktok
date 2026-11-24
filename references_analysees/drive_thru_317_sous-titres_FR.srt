@@ -1,0 +1,107 @@
+1
+00:00:00,000 --> 00:00:02,500
+Bienvenue ! Vous pesez combien ?
+
+2
+00:00:02,500 --> 00:00:04,000
+Pardon ?
+
+3
+00:00:04,000 --> 00:00:06,000
+C'est pour le menu de nuit.
+
+4
+00:00:06,000 --> 00:00:07,500
+Il y a quoi dedans ?
+
+5
+00:00:07,500 --> 00:00:09,000
+Personne ne l'a jamais demandé.
+
+6
+00:00:09,000 --> 00:00:12,000
+Non merci. Juste un cheeseburger.
+
+7
+00:00:13,000 --> 00:00:15,500
+Un menu de nuit. Fenêtre suivante, s'il vous plaît.
+
+8
+00:00:15,500 --> 00:00:17,500
+J'ai dit un cheeseburger.
+
+9
+00:00:18,500 --> 00:00:21,500
+Attendez… vous n'étiez pas à l'autre fenêtre, à l'instant ?
+
+10
+00:00:22,000 --> 00:00:25,500
+Autre fenêtre, madame. Quelqu'un sait que vous êtes ici, ce soir ?
+
+11
+00:00:26,500 --> 00:00:27,500
+Pourquoi ?
+
+12
+00:00:27,500 --> 00:00:29,500
+C'est pour la cuisine. Fenêtre suivante, s'il vous plaît.
+
+13
+00:00:30,000 --> 00:00:32,000
+Personne ne sait que je suis là.
+
+14
+00:00:33,500 --> 00:00:36,000
+Re-bonjour. Vous portez du parfum ?
+
+15
+00:00:36,000 --> 00:00:38,000
+La cuisine dit que ça change le goût.
+
+16
+00:00:38,000 --> 00:00:39,500
+Le goût de quoi ?
+
+17
+00:00:39,500 --> 00:00:41,000
+Fenêtre suivante, s'il vous plaît.
+
+18
+00:00:42,500 --> 00:00:45,000
+Laissez tomber le burger. Je m'en vais.
+
+19
+00:00:48,500 --> 00:00:50,500
+OK… elle est où, la sortie ?
+
+20
+00:00:50,500 --> 00:00:52,500
+Après la dernière fenêtre, madame.
+
+21
+00:00:52,500 --> 00:00:54,500
+Il y a combien de fenêtres ?
+
+22
+00:00:54,500 --> 00:00:56,000
+Autant qu'il en faudra.
+
+23
+00:00:57,500 --> 00:00:59,500
+S'il vous plaît… laissez-moi sortir.
+
+24
+00:01:00,500 --> 00:01:02,500
+Vous m'avez demandé ce qu'il y a dans le menu de nuit.
+
+25
+00:01:02,500 --> 00:01:04,000
+Je n'en veux pas.
+
+26
+00:01:04,000 --> 00:01:06,500
+Oh, ce n'est pas pour vous, madame.
+
+27
+00:01:08,000 --> 00:01:09,500
+C'est vous.
